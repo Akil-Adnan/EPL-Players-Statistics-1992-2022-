@@ -1,0 +1,793 @@
+id,playerId,Display Name,First Name,Last Name,Birth Date,Birth Place,National Team,Shirt Num,Position,Position Info
+3642,183799.0,Diego Cavalieri,Diego,Cavalieri,1982-12-01,Brazil,Brazil,16.0,G,Goalkeeper
+4941,6883.0,Diego Costa,Diego,Da Silva Costa,1988-10-07,Brazil,Spain,19.0,F,Centre Striker
+4112,14109.0,Eric Dier,Eric,Dier,1994-01-15,England,England,15.0,D,Centre Central Defender
+3925,256645.0,Mame Biram Diouf,Mame Biram,Diouf,1987-12-16,Senegal,Senegal,92.0,F,Centre Striker
+5577,130442.0,Brice Dja Djédjé,Brice,Dja Djédjé,1990-12-23,Cote D’Ivoire,Cote D’Ivoire,26.0,D,Right Full Back
+19678,303262.0,Domingos Quina,Domingos,Quina,1999-11-18,Guinea-Bissau,Portugal,28.0,M,Centre Attacking Midfielder
+13823,222694.0,Abdoulaye Doucouré,Abdoulaye,Doucouré,1993-01-01,Mali,Mali,16.0,M,Centre Central Midfielder
+14442,171272.0,Vlad Dragomir,Vlad,Dragomir,1999-04-24,Romania,Romania,10.0,M,Centre Central Midfielder
+6362,289237.0,Aleksandar Dragovic,Aleksandar,Dragovic,1991-03-06,Austria,Austria,15.0,D,Defender
+3670,291459.0,Danny Drinkwater,Danny,Drinkwater,1990-03-05,England,England,15.0,M,Midfielder
+6451,129737.0,Martin Dúbravka,Martin,Dúbravka,1989-01-15,Slovakia,Slovakia,1.0,G,Goalkeeper
+3601,256337.0,Shane Duffy,Shane,Duffy,1992-01-01,Northern Ireland,Ireland,4.0,D,Centre Central Defender
+14771,288976.0,Demeaco Duhaney,Demeaco,Duhaney,1998-10-13,England,England,21.0,D,Right Full Back
+23738,283096.0,Stephen Duke-McKenna,Stephen,Duke-McKenna,2000-08-17,England,Guyana,41.0,M,Right Winger
+4340,176689.0,Paul Dummett,Paul,Dummett,1991-09-26,Wales,Wales,,D,Defender
+8163,13742.0,Lewis Dunk,Lewis,Dunk,1991-11-21,England,England,30.0,D,Defender
+2341,19449.0,Nathan Dyer,Nathan,Dyer,1987-11-29,England,England,24.0,M,Right Winger
+12707,47186.0,Ederson,Ederson,Santana de Moraes,1993-08-17,Brazil,Brazil,31.0,G,Goalkeeper
+12265,163640.0,Eduardo,Eduardo,dos Reis Carvalho,1982-09-19,Portugal,Portugal,82.0,G,Goalkeeper
+15038,312156.0,Thomas Edwards,Thomas,Edwards,1999-01-22,England,England,7.0,D,Full Back
+14753,199366.0,Ovie Ejaria,Ovie,Ejaria,1997-11-18,England,England,14.0,M,Centre Central Midfielder
+8962,162033.0,Callum Elder,Callum,Elder,1995-01-27,Australia,Australia,3.0,D,Left Full Back
+21468,261166.0,Andrew Eleftheriou,Andrew,Eleftheriou,1997-11-08,England,England,15.0,D,Defender
+2214,268356.0,Robert Elliot,Robert,Elliot,1986-04-30,Ireland,Ireland,35.0,G,Goalkeeper
+16803,289337.0,Emerson,Emerson,Palmieri dos Santos,1994-08-03,Brazil,Italy,3.0,D,Left Full Back
+4845,302740.0,Christian Eriksen,Christian,Eriksen,1992-02-14,Denmark,Denmark,21.0,M,Centre Attacking Midfielder
+3156,129750.0,Jonny Evans,Jonny,Evans,1988-01-03,Northern Ireland,Northern Ireland,6.0,D,Centre Central Defender
+2934,94513.0,Patrice Evra,Patrice,Evra,1981-05-15,Senegal,France,27.0,D,Left Full Back
+3309,129917.0,Lukasz Fabianski,Lukasz,Fabianski,1985-04-18,Poland,Poland,1.0,G,Goalkeeper
+2417,153033.0,Cesc Fàbregas,Cesc,Fàbregas,1987-05-04,Spain,Spain,4.0,M,Centre Central Midfielder
+3182,275171.0,Adam Federici,Adam,Federici,1985-01-31,Australia,Australia,,G,Goalkeeper
+14631,267849.0,Morgan Feeney,Morgan,Feeney,1999-02-08,England,England,5.0,D,Centre Central Defender
+7564,130988.0,Sofiane Feghouli,Sofiane,Feghouli,1989-12-26,France,Algeria,89.0,M,Right Winger
+3604,6727.0,Marouane Fellaini,Marouane,Fellaini,1987-11-22,Belgium,Belgium,27.0,M,Centre Attacking Midfielder
+22546,48228.0,Kiko Femenía,Kiko,Femenía,1991-02-02,Spain,Spain,21.0,D,Right Wing Back
+4810,163391.0,Leroy Fer,Leroy,Fer,1990-01-05,Netherlands,Netherlands,8.0,M,Centre Central Midfielder
+23976,186686.0,Nathan Ferguson,Nathan,Ferguson,2000-10-06,England,England,36.0,D,Centre Central Defender
+15759,304775.0,Edimilson Fernandes,Edimilson,Fernandes,1996-04-15,Switzerland,Switzerland,11.0,M,Centre Central Midfielder
+5672,135251.0,Federico Fernández,Federico,Fernández,1989-02-21,Argentina,Argentina,18.0,D,Centre Central Defender
+4804,6723.0,Fernandinho,Fernando,Luiz Rosa,1985-05-04,Brazil,Brazil,25.0,M,Centre Defensive Midfielder
+5344,160452.0,Fernando,Fernando Francisco,Reges,1987-07-25,Brazil,Brazil,25.0,M,Centre Defensive Midfielder
+13867,277018.0,Sam Field,Sam,Field,1998-05-08,England,England,15.0,M,Centre Central Midfielder
+5144,91064.0,Stuart Findlay,Stuart,Findlay,1995-09-14,Scotland,Scotland,,D,Defender
+4129,266758.0,Jon Flanagan,Jon,Flanagan,1993-01-01,England,England,20.0,D,Defender
+1943,156961.0,Darren Fletcher,Darren,Fletcher,1984-02-01,Scotland,Scotland,,M,Centre Central Midfielder
+14805,41635.0,Phil Foden,Phil,Foden,2000-05-28,England,England,47.0,M,Centre/Right Attacking Midfielder
+14298,261100.0,Michael Folivi,Michael,Folivi,1998-02-25,England,England,39.0,F,Centre Striker
+3170,312587.0,Fraser Forster,Fraser,Forster,1988-03-17,England,England,20.0,G,Goalkeeper
+2932,130759.0,Ben Foster,Ben,Foster,1983-04-03,England,England,1.0,G,Goalkeeper
+13561,267496.0,Timothy Fosu-Mensah,Timothy,Fosu-Mensah,1998-01-02,Netherlands,Netherlands,24.0,D,Left/Centre/Right Central Defender
+25292,288764.0,Dimitri Foulquier,Dimitri,Foulquier,1993-03-23,France,Guadeloupe,20.0,D,Right Full Back
+25309,276909.0,Juan Foyth,Juan,Foyth,1998-01-12,Argentina,Argentina,8.0,D,Right Full Back
+8044,10045.0,Simon Francis,Simon,Francis,1985-02-16,England,England,2.0,D,Centre/Right Central Defender
+8052,222336.0,Ryan Fraser,Ryan,Fraser,1994-02-24,Scotland,Scotland,21.0,M,Left/Right Winger
+8935,314504.0,Freddie Ladapo,Olayinka Fredrick Oladotun,Ladapo,1993-02-01,England,England,,F,Forward
+5371,311979.0,Christian Fuchs,Christian,Fuchs,1986-04-07,Austria,Austria,22.0,D,Left Full Back
+7482,93975.0,Jay Fulton,Jay,Fulton,1994-04-04,England,Scotland,28.0,M,Midfielder
+12639,313317.0,Manolo Gabbiadini,Manolo,Gabbiadini,1991-11-26,Italy,Italy,23.0,F,Centre Striker
+19680,315355.0,Gabriel Jesus,Gabriel Fernando,de Jesus,1997-04-03,Brazil,Brazil,9.0,F,Second Striker
+10423,115745.0,Gabriel Paulista,Gabriel Armando,de Abreu,1990-11-26,Brazil,Brazil,5.0,D,Centre Central Defender
+9650,160437.0,Sam Gallagher,Sam,Gallagher,1995-09-15,England,England,9.0,F,Centre Striker
+3868,256002.0,Luke Garbutt,Luke,Garbutt,1993-05-21,England,England,29.0,D,Left Full Back
+12946,283156.0,Aleix García,Aleix,García,1997-06-28,Spain,Spain,14.0,M,Midfielder
+5937,14053.0,Florin Gardos,Florin,Gardos,1988-10-29,Romania,Romania,25.0,D,Centre Central Defender
+4771,135117.0,Dwight Gayle,Dwight,Gayle,1989-10-17,England,England,16.0,F,Centre Striker
+4600,283240.0,Paulo Gazzaniga,Paulo,Gazzaniga,1992-01-02,Argentina,Argentina,21.0,G,Goalkeeper
+15146,314449.0,Anthony Georgiou,Anthony,Georgiou,1997-02-24,Cyprus,Cyprus,20.0,M,Left Winger
+3046,312092.0,Kieran Gibbs,Kieran,Gibbs,1989-09-26,England,England,3.0,D,Left Full Back
+14453,268969.0,Charlie Gilmour,Charlie,Gilmour,1999-02-11,England,Scotland,,M,Centre Defensive Midfielder
+4481,281624.0,Olivier Giroud,Olivier,Giroud,1986-09-30,France,France,9.0,F,Centre Striker
+9634,136702.0,Connor Goldson,Connor,Goldson,1992-12-18,England,England,6.0,D,Centre Central Defender
+14830,187482.0,Angel Gomes,Angel,Gomes,2000-08-31,England,England,,M,Left/Centre Attacking Midfielder
+10651,19499.0,Joe Gomez,Joe,Gomez,1997-05-23,England,England,12.0,D,Left/Centre/Right Central Defender
+4547,311914.0,Curtis Good,Curtis,Good,1993-03-23,Australia,Australia,,D,Central Defender
+23747,268679.0,Anthony Gordon,Anthony,Gordon,2001-02-24,England,England,24.0,M,Left/Right Winger
+11134,289403.0,Jon Gorenc-Stankovic,Jon,Gorenc-Stankovic,1996-01-14,Slovenia,Slovenia,4.0,D,Defender
+3390,268421.0,Dan Gosling,Dan,Gosling,1990-02-01,England,England,16.0,M,Centre/Right Central Midfielder
+4554,6353.0,Yoan Gouffran,Yoan,Gouffran,1986-05-25,France,France,20.0,M,Left/Right Winger
+19909,305298.0,Kamil Grabara,Kamil,Grabara,1999-01-08,Poland,Poland,1.0,G,Goalkeeper
+8055,130768.0,Lewis Grabban,Lewis,Grabban,1988-01-12,England,England,7.0,F,Centre Striker
+12815,260767.0,Max-Alain Gradel,Max-Alain,Gradel,1987-11-30,Cote D’Ivoire,Cote D’Ivoire,7.0,M,Left/Right Winger
+1870,277687.0,Lee Grant,Lee,Grant,1983-01-27,England,England,,G,Goalkeeper
+7946,282268.0,Demarai Gray,Demarai,Gray,1996-06-28,England,England,11.0,F,Left/Right Winger
+2758,133748.0,Robert Green,Robert,Green,1980-01-18,England,England,31.0,G,Goalkeeper
+8650,55779.0,Matt Grimes,Matt,Grimes,1995-07-15,England,England,29.0,M,Midfielder
+14766,277626.0,Daniel Grimshaw,Daniel,Grimshaw,1998-01-16,England,England,32.0,G,Goalkeeper
+22542,48182.0,Pascal Groß,Pascal,Groß,1991-06-15,Germany,Germany,13.0,M,Centre Central Midfielder
+13985,282096.0,Marko Grujic,Marko,Grujic,1996-04-13,Yugoslavia,Serbia,16.0,M,Centre Central Midfielder
+6210,30985.0,Jóhann Gudmundsson,Jóhann,Gudmundsson,1990-10-27,Iceland,Iceland,7.0,M,Left Winger
+5101,7018.0,Ilkay Gündogan,Ilkay,Gündogan,1990-10-24,Germany,Germany,8.0,M,Centre Central Midfielder
+15027,299475.0,Daniel Gyollai,Daniel,Gyollai,1997-04-07,Hungary,Hungary,1.0,G,Goalkeeper
+12173,259231.0,Florent Hadergjonaj,Florent,Hadergjonaj,1994-07-31,Switzerland,Kosovo,94.0,D,Right Full Back
+4545,315404.0,Massadio Haïdara,Massadio,Haïdara,1992-12-02,France,Mali,21.0,D,Left Full Back
+24839,170341.0,Sead Haksabanovic,Sead,Haksabanovic,1999-05-04,Sweden,Montenegro,20.0,M,Left/Right Winger
+3183,267540.0,Ben Hamer,Ben,Hamer,1987-11-20,England,England,18.0,G,Goalkeeper
+14835,289814.0,Ethan Hamilton,Ethan,Hamilton,1998-10-18,Scotland,Scotland,4.0,M,Midfielder
+3819,56726.0,Grant Hanley,Grant,Hanley,1991-11-20,Scotland,Scotland,,D,Centre Central Defender
+20869,93909.0,Ollie Harfield,Ollie,Harfield,1998-01-09,England,England,5.0,D,Defender
+20101,302913.0,Rekeem Harper,Rekeem,Harper,2000-03-08,England,England,4.0,M,Centre Central Midfielder
+3143,289224.0,Joe Hart,Joe,Hart,1987-04-19,England,England,1.0,G,Goalkeeper
+2338,264366.0,Andrew Surman,Andrew,Surman,1986-08-20,South Africa,England,16.0,M,Centre Central Midfielder
+13195,302943.0,Sam Surridge,Sam,Surridge,1998-07-28,England,England,16.0,F,Centre Striker
+5428,126920.0,Markus Suttner,Markus,Suttner,1987-04-16,Austria,Austria,29.0,D,Left Full Back
+10556,154773.0,Ryan Sweeney,Ryan,Sweeney,1997-04-15,England,Ireland,5.0,D,Centre Central Defender
+3543,50189.0,Wojciech Szczesny,Wojciech,Szczesny,1990-04-18,Poland,Poland,1.0,G,Goalkeeper
+15045,283381.0,Lasse Sørensen,Lasse,Sørensen,1999-10-21,Denmark,Denmark,21.0,M,Centre Central Midfielder
+15685,288761.0,Alexander Sørloth,Alexander,Sørloth,1995-12-05,Norway,Norway,23.0,F,Left/Centre/Right Striker
+10498,130776.0,Dusan Tadic,Dusan,Tadic,1988-11-20,Yugoslavia,Serbia,10.0,F,Left/Right Winger
+4815,314645.0,Matt Targett,Matt,Targett,1995-09-18,England,England,,D,Left Full Back
+8143,314846.0,James Tarkowski,James,Tarkowski,1992-11-19,England,England,2.0,D,Centre Central Defender
+24214,288842.0,Kyle Taylor,Kyle,Taylor,1999-05-26,England,England,17.0,M,Centre Central Midfielder
+8451,186709.0,George Thomas,George,Thomas,1997-03-24,England,Wales,14.0,M,Centre Attacking Midfielder
+10609,291711.0,James Tilley,James,Tilley,1998-06-13,England,England,14.0,M,Left Winger
+14778,287374.0,Tom Dele-Bashiru,Ayotomiwa,Dele-Bashiru,1999-09-17,England,Nigeria,19.0,M,Centre Central Midfielder
+3517,51519.0,James Tomkins,James,Tomkins,1989-03-29,England,England,5.0,D,Defender
+13281,280651.0,Fikayo Tomori,Fikayo,Tomori,1997-12-19,Canada,England,23.0,D,Centre Central Defender
+19681,259027.0,Toni Martínez,Antonio,Martínez López,1997-06-30,Spain,Spain,29.0,F,Centre Striker
+12114,114783.0,Cenk Tosun,Cenk,Tosun,1991-06-07,Germany,Turkey,9.0,F,Centre Striker
+4148,138364.0,Yaya Touré,Yaya,Touré,1983-05-13,Cote D’Ivoire,Cote D’Ivoire,42.0,M,Central Midfielder
+13235,161251.0,Richard Towell,Richard,Towell,1991-07-17,Ireland,Ireland,17.0,M,Centre Central Midfielder
+3724,282044.0,Andros Townsend,Andros,Townsend,1991-07-16,England,England,14.0,M,Left/Right Winger
+3905,300029.0,Kieran Trippier,Kieran,Trippier,1990-09-19,England,England,15.0,D,Right Full Back
+20051,160925.0,Nathan Trott,Nathan,Trott,1998-11-21,Bermuda,England,1.0,G,Goalkeeper
+13559,300205.0,Axel Tuanzebe,Axel,Tuanzebe,1997-11-14,England,England,3.0,D,Central Defender
+20941,234888.0,Rayhaan Tulloch,Rayhaan,Tulloch,2001-01-20,England,England,7.0,F,Centre Second Striker
+13477,137795.0,Josh Tymon,Josh,Tymon,1999-05-22,England,England,,D,Defender
+8174,168961.0,Leonardo Ulloa,Leonardo,Ulloa,1986-07-26,Argentina,Argentina,9.0,F,Centre Striker
+10435,39274.0,Fredrik Ulvestad,Fredrik,Ulvestad,1992-06-17,Norway,Norway,17.0,M,Midfielder
+3285,5421.0,Antonio Valencia,Antonio,Valencia,1985-08-04,Ecuador,Ecuador,25.0,D,Right Full Back
+3362,283846.0,Patrick van Aanholt,Patrick,van Aanholt,1990-08-29,Netherlands,Netherlands,6.0,D,Left Full Back
+4877,256350.0,Mike van der Hoorn,Mike,van der Hoorn,1992-10-15,Netherlands,Netherlands,6.0,D,Centre Central Defender
+5140,92622.0,Virgil van Dijk,Virgil,van Dijk,1991-07-08,Netherlands,Netherlands,4.0,D,Centre Central Defender
+10964,263005.0,Rajiv van La Parra,Rajiv,van La Parra,1991-06-04,Netherlands,Netherlands,3.0,M,Left Winger
+8979,11259.0,Jamie Vardy,Jamie,Vardy,1987-01-11,England,England,9.0,F,Centre Striker
+4809,163350.0,Guillermo Varela,Guillermo,Varela,1993-03-24,Uruguay,Uruguay,2.0,D,Right Full Back
+15044,166800.0,Thibaud Verlinden,Thibaud,Verlinden,1999-07-09,Belgium,Belgium,17.0,M,Left/Right Winger
+4666,188573.0,Jan Vertonghen,Jan,Vertonghen,1987-04-24,Belgium,Belgium,5.0,D,Centre Full Back
+25312,288634.0,Nikola Vlasic,Nikola,Vlasic,1997-10-04,Croatia,Croatia,11.0,M,Centre Attacking Midfielder
+4007,284068.0,Sam Vokes,Sam,Vokes,1989-10-21,Wales,Wales,9.0,F,Centre Striker
+4398,166315.0,Michel Vorm,Michel,Vorm,1983-10-20,Netherlands,Netherlands,13.0,G,Goalkeeper
+8003,90895.0,Mark Waddington,Mark,Waddington,1996-10-11,England,England,,M,Midfielder
+21730,300569.0,Molla Wagué,Molla,Wagué,1991-02-21,France,Mali,25.0,D,Defender
+2839,277556.0,Theo Walcott,Theo,Walcott,1989-03-16,England,England,32.0,F,Right Winger
+3955,50015.0,Kyle Walker,Kyle,Walker,1990-05-28,England,England,2.0,D,Right Full Back
+13815,187645.0,Kyle Walker-Peters,Kyle,Walker-Peters,1997-04-13,England,England,2.0,D,Right Full Back
+15119,311977.0,Anton Walkes,Anton,Walkes,1997-02-08,England,England,5.0,D,Defender
+2047,136908.0,Jonathan Walters,Jonathan,Walters,1983-09-20,Ireland,Ireland,39.0,F,Centre Striker
+8159,301231.0,Christian Walton,Christian,Walton,1995-11-09,England,England,28.0,G,Goalkeeper
+14164,159994.0,Aaron Wan-Bissaka,Aaron,Wan-Bissaka,1997-11-26,England,England,29.0,D,Right Full Back
+4816,30554.0,Victor Wanyama,Victor,Wanyama,1991-06-25,Kenya,Kenya,12.0,M,Centre Defensive Midfielder
+3999,281237.0,Stephen Ward,Stephen,Ward,1985-08-20,Ireland,Ireland,3.0,D,Left Full Back
+4617,6447.0,James Ward-Prowse,James,Ward-Prowse,1994-11-01,England,England,8.0,M,Centre Central Midfielder
+2686,257563.0,Ben Watson,Ben,Watson,1985-07-09,England,England,26.0,M,Centre Central Midfielder
+3452,259569.0,Danny Welbeck,Danny,Welbeck,1990-11-26,England,England,18.0,F,Centre Striker
+8889,180235.0,Nahki Wells,Nahki,Wells,1990-06-01,Bermuda,Bermuda,21.0,F,Centre Striker
+4489,42970.0,Ashley Westwood,Ashley,Westwood,1990-04-01,England,England,18.0,M,Centre Central Midfielder
+2299,289829.0,Glenn Whelan,Glenn,Whelan,1984-01-13,Ireland,Ireland,26.0,M,Centre Defensive Midfielder
+14548,284417.0,Ben White,Ben,White,1997-10-08,England,England,4.0,D,Centre/Right Central Defender
+2980,19391.0,Dean Whitehead,Dean,Whitehead,1982-01-12,England,England,4.0,M,Centre Central Midfielder
+15111,90970.0,Alfie Whiteman,Alfie,Whiteman,1998-10-02,England,England,,G,Goalkeeper
+4396,301494.0,Connor Wickham,Connor,Wickham,1993-03-31,England,England,19.0,F,Centre Striker
+2678,35781.0,Rhoys Wiggins,Rhoys,Wiggins,1987-11-04,England,Wales,12.0,D,Left Full Back
+7114,279430.0,Georginio Wijnaldum,Georginio,Wijnaldum,1990-11-11,Netherlands,Netherlands,18.0,M,Centre Attacking Midfielder
+16549,53192.0,Will Miller,William,Miller,1996-06-08,England,England,18.0,M,Left/Right Winger
+4767,287510.0,Jonathan Williams,Jonathan,Williams,1993-10-09,Wales,Wales,20.0,M,Left/Centre/Right Attacking Midfielder
+4748,188215.0,Willian,Willian,Borges da Silva,1988-08-09,Brazil,Brazil,12.0,F,Left/Centre/Right Winger
+14446,287383.0,Joseph Willock,Joseph,Willock,1999-08-20,England,England,28.0,M,Centre Attacking Midfielder
+3547,286905.0,Jack Wilshere,Jack,Wilshere,1992-01-01,England,England,11.0,M,Centre Central Midfielder
+3471,133648.0,Marc Wilson,Marc,Wilson,1987-08-17,Northern Ireland,Ireland,18.0,M,Centre Central Midfielder
+13813,289420.0,Kevin Wimmer,Kevin,Wimmer,1992-11-15,Austria,Austria,6.0,D,Centre Central Defender
+7488,90987.0,Harry Winks,Harry,Winks,1996-02-02,England,England,8.0,M,Centre Central Midfielder
+4989,142952.0,Philipp Wollscheid,Philipp,Wollscheid,1989-03-06,Germany,Germany,2.0,D,Centre Central Defender
+3756,300570.0,Chris Wood,Chris,Wood,1991-12-07,New Zealand,New Zealand,20.0,F,Centre Striker
+14758,315652.0,Ben Woodburn,Ben,Woodburn,1999-10-15,Wales,Wales,,M,Left/Centre/Right Winger
+10479,313184.0,Freddie Woodman,Freddie,Woodman,1997-03-04,England,England,,G,Goalkeeper
+15285,153006.0,Matthew Worthington,Matthew,Worthington,1997-12-18,England,England,7.0,M,Midfielder
+12136,26145.0,Granit Xhaka,Granit,Xhaka,1992-09-27,Switzerland,Switzerland,34.0,M,Centre Central Midfielder
+4673,138635.0,Claudio Yacob,Claudio,Yacob,1987-07-18,Argentina,Argentina,24.0,M,Centre Defensive Midfielder
+14626,261070.0,Josef Yarney,Josef,Yarney,1997-10-08,England,England,4.0,D,Centre Central Defender
+10522,312091.0,DeAndre Yedlin,DeAndre,Yedlin,1993-07-09,United States,United States,2.0,D,Right Full Back
+4605,313297.0,Maya Yoshida,Maya,Yoshida,1988-08-24,Japan,Japan,22.0,D,Centre Central Defender
+3062,94798.0,Ashley Young,Ashley,Young,1985-07-09,England,England,18.0,D,Left/Right Wing Back
+3654,47197.0,Pablo Zabaleta,Pablo,Zabaleta,1985-01-16,Argentina,Argentina,5.0,D,Right Full Back
+4539,13935.0,Wilfried Zaha,Wilfried,Zaha,1992-11-10,Cote D’Ivoire,Cote D’Ivoire,11.0,F,Left/Centre/Right Winger
+7103,289909.0,Zanka,Mathias,Jorgensen,1990-04-23,Denmark,Denmark,22.0,D,Centre Central Defender
+25313,288543.0,Davide Zappacosta,Davide,Zappacosta,1992-06-11,Italy,Italy,77.0,D,Right Full Back
+3338,132978.0,Mauro Zárate,Mauro,Zárate,1987-03-18,Argentina,Argentina,19.0,F,Centre Striker
+10123,281572.0,Marvin Zeegelaar,Marvin,Zeegelaar,1990-08-12,Netherlands,Netherlands,4.0,D,Left Full Back
+22547,145041.0,Zhang Yuning,Yuning,Zhang,1997-01-05,China,China,97.0,F,Centre Striker
+3662,277928.0,Ron-Robert Zieler,Ron-Robert,Zieler,1989-02-12,Germany,Germany,16.0,G,Goalkeeper
+19620,34626.0,Oleksandr Zinchenko,Oleksandr,Zinchenko,1996-12-15,Ukraine,Ukraine,25.0,M,Centre Attacking Midfielder
+5175,288580.0,Kurt Zouma,Kurt,Zouma,1994-10-27,France,France,4.0,D,Centre Central Defender
+10483,266978.0,Rolando Aarons,Rolando,Aarons,1995-11-16,Jamaica,Jamaica,11.0,M,Left/Right Winger
+13279,288577.0,Abdul Rahman Baba,Abdul Rahman,Baba,1994-07-02,Ghana,Ghana,21.0,D,Left Full Back
+13286,289629.0,Tammy Abraham,Tammy,Abraham,1997-10-02,England,England,9.0,F,Centre Striker
+4081,166766.0,Charlie Adam,Charlie,Adam,1985-12-10,Scotland,Scotland,,M,Centre Central Midfielder
+9199,286397.0,Adam Armstrong,Adam,Armstrong,1997-02-10,England,England,9.0,F,Centre Striker
+13549,258884.0,Tosin Adarabioyo,Tosin,Adarabioyo,1997-09-24,England,England,16.0,D,Centre Central Defender
+4852,161346.0,Adrián,Adrián,San Miguel del Castillo,1987-01-03,Spain,Spain,13.0,G,Goalkeeper
+11357,154374.0,Adrien Silva,Adrien Sebastian,Perruchet Silva,1989-03-15,France,Portugal,15.0,M,Centre Central Midfielder
+4968,99561.0,Ibrahim Afellay,Ibrahim,Afellay,1986-04-02,Netherlands,Netherlands,17.0,M,Left/Centre/Right Attacking Midfielder
+4040,313922.0,Benik Afobe,Benik,Afobe,1993-02-12,England,DR Congo,23.0,F,Centre Striker
+4328,311922.0,Sergio Agüero,Sergio,Agüero,1988-06-02,Argentina,Argentina,19.0,F,Centre Striker
+10559,302453.0,Daniel Agyei,Daniel,Agyei,1997-06-01,England,England,15.0,F,Centre Striker
+24695,185230.0,Soufyan Ahannach,Soufyan,Ahannach,1995-09-09,Netherlands,Netherlands,30.0,M,Left Winger
+6609,166128.0,Ahmed Hegazi,Ahmed Elsayed Ali Elsayed,Hegazi,1991-01-25,Egypt,Egypt,,D,Defender
+10439,234915.0,Ola Aina,Ola,Aina,1996-10-08,England,Nigeria,34.0,D,Right Full Back
+4499,187388.0,Nathan Aké,Nathan,Aké,1995-02-18,Netherlands,Netherlands,6.0,D,Left/Centre Central Defender
+4482,289605.0,Chuba Akpom,Chuba,Akpom,1995-10-09,England,England,47.0,F,Centre Striker
+3564,13981.0,Marc Albrighton,Marc,Albrighton,1989-11-18,England,England,11.0,M,Left/Right Winger
+4916,20234.0,Toby Alderweireld,Toby,Alderweireld,1989-03-02,Belgium,Belgium,4.0,D,Centre/Right Central Defender
+5879,133849.0,Aleksandar Mitrovic,Aleksandar,Mitrovic,1994-09-16,Yugoslavia,Serbia,9.0,F,Centre Striker
+14732,22183.0,Trent Alexander-Arnold,Trent,Alexander-Arnold,1998-10-07,England,England,66.0,D,Right Full Back
+33112,100647.0,Ali Gabr,Ali,Gabr Mossad,1989-01-10,Egypt,Egypt,,D,Defender
+13984,133679.0,Allan,Allan,Rodrigues de Souza,1997-03-03,Brazil,Brazil,28.0,M,Centre Central Midfielder
+4413,97327.0,Joe Allen,Joe,Allen,1990-03-14,Wales,Wales,24.0,M,Centre Central Midfielder
+9167,303001.0,Dele Alli,Dele,Alli,1996-04-11,England,England,36.0,M,Centre Attacking Midfielder
+3732,314364.0,Ryan Allsop,Ryan,Allsop,1992-06-17,England,England,,G,Goalkeeper
+4093,35018.0,Marcos Alonso,Marcos,Alonso,1990-12-28,Spain,Spain,3.0,D,Left Full Back
+14743,137808.0,Paulo Alves,Paulo,Alves,1997-12-25,Portugal,Portugal,,M,Midfielder
+12306,91605.0,Daniel Amartey,Daniel,Amartey,1994-12-21,Ghana,Ghana,18.0,D,Right Full Back
+15128,188697.0,Luke Amos,Luke,Amos,1997-02-23,England,England,8.0,M,Centre Central Midfielder
+19731,222338.0,Ethan Ampadu,Ethan,Ampadu,2000-09-14,England,Wales,22.0,D,Centre Central Defender
+5490,292304.0,Nordin Amrabat,Nordin,Amrabat,1987-03-31,Netherlands,Morocco,7.0,M,Midfielder
+8234,131875.0,Tom Anderson,Tom,Anderson,1993-09-02,England,England,4.0,D,Centre Central Defender
+5594,133774.0,André Ayew,André,Ayew,1989-12-17,France,Ghana,20.0,F,Centre Second Striker
+10476,316561.0,Andreas Pereira,Andreas Hugo,Hoelgebaum Pereira,1996-01-01,Belgium,Brazil,,M,Attacking Midfielder
+4550,256907.0,Vurnon Anita,Vurnon,Anita,1989-04-04,Curacao,Curacao,6.0,M,Centre Defensive Midfielder
+9595,20347.0,Michail Antonio,Michail,Antonio,1990-03-28,England,Jamaica,9.0,F,Left/Centre/Right Striker
+8242,136716.0,Scott Arfield,Scott,Arfield,1988-11-01,Scotland,Canada,37.0,M,Left/Centre/Right Attacking Midfielder
+7175,273070.0,Giedrius Arlauskis,Giedrius,Arlauskis,1987-12-01,Lithuania,Lithuania,87.0,G,Goalkeeper
+4823,284849.0,Marko Arnautovic,Marko,Arnautovic,1989-04-19,Austria,Austria,9.0,F,Centre Striker
+8050,306574.0,Harry Arter,Harry,Arter,1989-12-28,Ireland,Ireland,,M,Centre Central Midfielder
+4859,270861.0,Christian Atsu,Christian,Atsu,1992-01-10,Ghana,Ghana,,M,Midfielder
+5110,303253.0,Pierre-Emerick Aubameyang,Pierre-Emerick,Aubameyang,1989-06-18,France,Gabon,25.0,F,Centre Striker
+11293,292169.0,Serge Aurier,Serge,Aurier,1992-12-24,Cote D’Ivoire,Cote D’Ivoire,25.0,D,Right Full Back
+9468,277655.0,Charlie Austin,Charlie,Austin,1989-07-05,England,England,11.0,F,Centre Striker
+5595,160688.0,Jordan Ayew,Jordan,Ayew,1991-09-11,France,Ghana,9.0,F,Centre Striker
+4496,6280.0,César Azpilicueta,César,Azpilicueta,1989-08-28,Spain,Spain,28.0,D,Left/Right Full Back
+9762,180847.0,Daniel Bachmann,Daniel,Bachmann,1994-07-09,Austria,Austria,26.0,G,Goalkeeper
+12937,43062.0,Eric Bailly,Eric,Bailly,1994-04-12,Cote D’Ivoire,Cote D’Ivoire,,D,Centre Central Defender
+3030,4600.0,Leighton Baines,Leighton,Baines,1984-12-11,England,England,3.0,D,Left Full Back
+11260,263844.0,Tiemoué Bakayoko,Tiemoué,Bakayoko,1994-08-17,France,France,41.0,M,Centre Defensive Midfielder
+4749,300836.0,Lewis Baker,Lewis,Baker,1995-04-25,England,England,42.0,M,Centre Central Midfielder
+8457,314488.0,Courtney Baker-Richardson,Courtney,Baker-Richardson,1995-12-05,England,England,,F,Striker
+4711,303491.0,Sam Baldock,Sam,Baldock,1989-03-15,England,England,10.0,F,Centre Striker
+14623,286603.0,Beni Baningime,Beni,Baningime,1998-09-09,DR Congo,DR Congo,34.0,M,Centre Defensive Midfielder
+15030,51844.0,Lewis Banks,Lewis,Banks,1997-04-14,England,England,43.0,D,Defender
+2517,51275.0,Phil Bardsley,Phil,Bardsley,1985-06-28,Scotland,Scotland,26.0,D,Right Full Back
+4115,286868.0,Ross Barkley,Ross,Barkley,1993-12-05,England,England,20.0,M,Centre Attacking Midfielder
+13590,258110.0,Daniel Barlaser,Daniel,Barlaser,1997-01-18,England,England,4.0,M,Centre Central Midfielder
+8246,10314.0,Ashley Barnes,Ashley,Barnes,1989-10-30,England,England,10.0,F,Centre Striker
+10520,51696.0,Modou Barrow,Modou,Barrow,1992-10-13,Gambia,Gambia,7.0,F,Right Winger
+1308,52234.0,Gareth Barry,Gareth,Barry,1981-02-23,England,England,18.0,M,Centre Central Midfielder
+3312,132955.0,Kyle Bartley,Kyle,Bartley,1991-05-22,England,England,5.0,D,Centre Central Defender
+7450,315061.0,Michy Batshuayi,Michy,Batshuayi,1993-10-02,Belgium,Belgium,9.0,F,Centre Striker
+32838,163259.0,Moritz Bauer,Moritz,Bauer,1992-01-25,Switzerland,Austria,13.0,D,Right Full Back
+3608,161218.0,Jose Baxter,Jose,Baxter,1992-02-07,England,England,14.0,F,Centre Striker
+19589,30517.0,Jan Bednarek,Jan,Bednarek,1996-04-12,Poland,Poland,35.0,D,Centre Central Defender
+2537,282076.0,Asmir Begovic,Asmir,Begovic,1987-06-20,Bosnia & Herzegovina,Bosnia & Herzegovina,15.0,G,Goalkeeper
+3765,281277.0,Valon Behrami,Valon,Behrami,1985-04-19,Kosovo,Switzerland,11.0,M,Centre Defensive Midfielder
+4474,288982.0,Héctor Bellerín,Héctor,Bellerín,1995-03-19,Spain,Spain,19.0,D,Right Full Back
+20879,139675.0,Yasin Ben El-Mhanni,Yasin,Ben El-Mhanni,1995-10-26,England,England,19.0,M,Left/Centre/Right Attacking Midfielder
+13490,277218.0,Yohan Benalouane,Yohan,Benalouane,1987-03-28,France,Tunisia,29.0,D,Defender
+4492,32114.0,Christian Benteke,Christian,Benteke,1990-12-03,DR Congo,Belgium,20.0,F,Centre Striker
+4205,288846.0,Saido Berahino,Saido,Berahino,1993-08-04,Burundi,Burundi,24.0,F,Centre Striker
+6215,281487.0,Steven Berghuis,Steven,Berghuis,1991-12-19,Netherlands,Netherlands,23.0,F,Forward
+5067,44030.0,Bernardo Silva,Bernardo Mota,Veiga de Carvalho e Silva,1994-08-10,Portugal,Portugal,20.0,M,Left/Centre Attacking Midfielder
+2886,281358.0,Ryan Bertrand,Ryan,Bertrand,1989-08-05,England,England,5.0,D,Left Full Back
+10451,291946.0,Muhamed Besic,Muhamed,Besic,1992-09-10,Germany,Bosnia & Herzegovina,5.0,M,Midfielder
+10426,175684.0,Krystian Bielik,Krystian,Bielik,1998-01-04,Poland,Poland,,D,Defender
+8882,160732.0,Philip Billing,Philip,Billing,1996-06-11,Denmark,Denmark,29.0,M,Centre Defensive Midfielder
+19655,55964.0,Mark Birighitti,Mark,Birighitti,1991-04-17,Australia,Australia,19.0,G,Goalkeeper
+13231,262235.0,Henrik Bjørdal,Henrik,Bjørdal,1997-02-04,Norway,Norway,20.0,F,Forward
+4888,125735.0,Daley Blind,Daley,Blind,1990-03-09,Netherlands,Netherlands,17.0,D,Centre Central Defender
+4769,314589.0,Hiram Boateng,Hiram,Boateng,1996-01-08,England,England,,M,Centre Central Midfielder
+10441,301766.0,Jérémie Boga,Jérémie,Boga,1997-01-03,France,Cote D’Ivoire,10.0,F,Left Winger
+3348,186480.0,Ádám Bogdán,Ádám,Bogdán,1987-09-27,Hungary,Hungary,1.0,G,Goalkeeper
+4898,115678.0,Bojan,Bojan,Krkíc Pérez,1990-08-28,Spain,Spain,15.0,F,Left/Centre/Right Second Striker
+4763,268226.0,Yannick Bolasie,Yannick,Bolasie,1989-05-24,France,DR Congo,14.0,F,Left/Right Winger
+5721,180097.0,Gaëtan Bong,Gaëtan,Bong,1988-04-25,Cameroon,Cameroon,6.0,D,Left Full Back
+4838,53058.0,Wilfried Bony,Wilfried,Bony,1988-12-10,Cote D’Ivoire,Cote D’Ivoire,2.0,F,Centre Striker
+13475,167716.0,Regan Booty,Regan,Booty,1998-03-04,England,England,15.0,M,Midfielder
+16622,296354.0,Borja Bastón,Borja,González Tomás,1992-08-25,Spain,Spain,9.0,F,Centre Striker
+13560,281045.0,Cameron Borthwick-Jackson,Cameron,Borthwick-Jackson,1997-02-02,England,England,3.0,D,Left Full Back
+4601,289289.0,Artur Boruc,Artur,Boruc,1980-02-20,Poland,Poland,1.0,G,Goalkeeper
+12584,133548.0,Sofiane Boufal,Sofiane,Boufal,1993-09-17,France,Morocco,19.0,M,Left/Centre/Right Attacking Midfielder
+4788,261659.0,George Boyd,George,Boyd,1985-10-02,Scotland,Scotland,14.0,F,Winger
+9030,312005.0,Brad Smith,Brad,Smith,1994-04-09,Australia,Australia,5.0,D,Left Full Back
+4158,315651.0,Robbie Brady,Robbie,Brady,1992-01-14,Ireland,Ireland,,M,Left Winger
+21627,314471.0,Cohen Bramall,Cohen,Bramall,1996-04-02,England,England,3.0,D,Left Full Back
+9032,117138.0,Cameron Brannagan,Cameron,Brannagan,1996-05-09,England,England,8.0,M,Centre Central Midfielder
+13777,90877.0,Jakob Haugaard,Jakob,Haugaard,1992-05-01,Denmark,Denmark,,G,Goalkeeper
+4713,314370.0,Isaac Hayden,Isaac,Hayden,1995-03-22,England,England,,M,Centre Central Midfielder
+4503,159895.0,Eden Hazard,Eden,Hazard,1991-01-07,Belgium,Belgium,7.0,F,Left/Centre/Right Second Striker
+2933,277767.0,Tom Heaton,Tom,Heaton,1986-04-15,England,England,22.0,G,Goalkeeper
+19609,135235.0,Michael Hefele,Michael,Hefele,1990-09-01,Germany,Germany,44.0,D,Centre Central Defender
+13234,162553.0,Tomer Hemed,Tomer,Hemed,1987-05-02,Israel,Israel,26.0,F,Centre Striker
+3712,5990.0,Jordan Henderson,Jordan,Henderson,1990-06-17,England,England,14.0,M,Centre Central Midfielder
+8586,317851.0,Jeff Hendrick,Jeff,Hendrick,1992-01-31,Ireland,Ireland,,M,Centre Central Midfielder
+2569,282043.0,Wayne Hennessey,Wayne,Hennessey,1987-01-24,Wales,Wales,13.0,G,Goalkeeper
+10855,292129.0,Dion Henry,Dion,Henry,1997-09-12,England,England,38.0,G,Goalkeeper
+10475,160260.0,Ander Herrera,Ander,Herrera,1989-08-14,Spain,Spain,21.0,M,Centre Central Midfielder
+10501,294061.0,Jake Hesketh,Jake,Hesketh,1996-03-27,England,England,12.0,M,Attacking Midfielder
+3719,15253.0,Heurelho Gomes,Heurelho,da Silva Gomes,1981-02-15,Brazil,Brazil,1.0,G,Goalkeeper
+14619,304119.0,Mateusz Hewelt,Mateusz,Hewelt,1996-09-23,Poland,Poland,30.0,G,Goalkeeper
+21858,261231.0,Ryan Hill,Ryan,Hill,1998-03-19,England,England,11.0,M,Midfielder
+10949,281082.0,Jordy Hiwula-Mayifuila,Jordy,Hiwula-Mayifuila,1994-09-21,England,England,17.0,F,Centre Striker
+9936,281072.0,Tommie Hoban,Tommie,Hoban,1994-01-24,England,Ireland,,D,Centre Central Defender
+21691,213558.0,Shaun Hobson,Shaun,Hobson,1998-06-29,England,England,5.0,D,Centre Central Defender
+6194,277726.0,Wesley Hoedt,Wesley,Hoedt,1994-03-06,Netherlands,Netherlands,4.0,D,Centre Central Defender
+3801,11119.0,Jonathan Hogg,Jonathan,Hogg,1988-12-06,England,England,6.0,M,Centre Central Midfielder
+11575,31013.0,Rob Holding,Rob,Holding,1995-09-20,England,England,16.0,D,Centre Central Defender
+5713,269585.0,José Holebas,José,Holebas,1984-06-27,Germany,Greece,25.0,D,Defender
+10564,144363.0,Mason Holgate,Mason,Holgate,1996-10-22,England,England,68.0,D,Centre Central Defender
+14637,314383.0,Nathan Holland,Nathan,Holland,1998-06-19,England,England,,M,Left Winger
+13191,167525.0,Jordan Holmes,Jordan,Holmes,1997-05-08,Australia,Australia,21.0,G,Goalkeeper
+8340,134400.0,Tareiq Holmes-Dennis,Tareiq,Holmes-Dennis,1995-10-31,England,England,3.0,D,Left Full Back
+23744,186946.0,Fraser Hornby,Fraser,Hornby,1999-09-13,England,Scotland,18.0,F,Centre Striker
+2074,132602.0,Mark Hudson,Mark,Hudson,1982-03-30,England,England,5.0,D,Centre Central Defender
+23702,52102.0,Callum Hudson-Odoi,Callum,Hudson-Odoi,2000-11-07,England,England,20.0,F,Left/Right Winger
+24625,302904.0,Sam Hughes,Sam,Hughes,1997-04-15,England,England,12.0,D,Centre Central Defender
+9417,302716.0,Jordan Hugill,Jordan,Hugill,1992-06-04,England,England,9.0,F,Centre Striker
+13229,187169.0,Uwe Hünemeier,Uwe,Hünemeier,1986-01-09,Germany,Germany,2.0,D,Centre Central Defender
+15292,22903.0,Des Hutchinson,Des,Hutchinson,1996-12-05,Ireland,Ireland,47.0,M,Midfielder
+2053,131515.0,Robert Huth,Robert,Huth,1984-08-18,Germany,Germany,,D,Defender
+10734,312634.0,Emerson Hyndman,Emerson,Hyndman,1996-04-09,United States,United States,20.0,M,Centre Central Midfielder
+5272,187646.0,Pierre-Emile Højbjerg,Pierre-Emile,Højbjerg,1995-08-05,Denmark,Denmark,5.0,M,Centre Central Midfielder
+4527,280778.0,Jordon Ibe,Jordon,Ibe,1995-12-08,England,England,,F,Left/Right Wing Back
+7234,144941.0,Vicente Iborra,Vicente,Iborra,1988-01-16,Spain,Spain,10.0,M,Centre Central Midfielder
+5772,126029.0,Zlatan Ibrahimovic,Zlatan,Ibrahimovic,1981-10-03,Sweden,Sweden,11.0,F,Centre Striker
+12582,162322.0,Idrissa Gueye,Idrissa,Gueye,1989-09-26,Senegal,Senegal,27.0,M,Centre Defensive Midfielder
+13554,51676.0,Kelechi Iheanacho,Kelechi,Iheanacho,1996-10-03,Nigeria,Nigeria,14.0,F,Centre Striker
+10542,259431.0,Dejan Iliev,Dejan,Iliev,1995-02-25,North Macedonia,North Macedonia,33.0,G,Goalkeeper
+5588,315610.0,Giannelli Imbula,Giannelli,Imbula,1992-09-12,Belgium,DR Congo,25.0,M,Centre Central Midfielder
+4284,186836.0,Rohan Ince,Rohan,Ince,1992-11-08,England,England,23.0,M,Centre Defensive Midfielder
+8245,285030.0,Danny Ings,Danny,Ings,1992-07-23,England,England,20.0,F,Centre Striker
+4760,259442.0,Ryan Inniss,Ryan,Inniss,1995-06-05,England,England,24.0,D,Centre Central Defender
+2928,139710.0,Stephen Ireland,Stephen,Ireland,1986-08-22,Ireland,Ireland,17.0,M,Centre Central Midfielder
+4717,162020.0,Alexander Iwobi,Alexander,Iwobi,1996-05-03,Nigeria,Nigeria,17.0,F,Left/Centre/Right Second Striker
+12212,17457.0,José Izquierdo,José,Izquierdo,1992-07-07,Colombia,Colombia,21.0,F,Left Winger
+33056,288939.0,Jaroslaw Jach,Jaroslaw,Jach,1994-02-17,Poland,Poland,,D,Defender
+13246,292883.0,Brad Jackson,Brad,Jackson,1996-10-20,England,England,16.0,M,Midfielder
+3222,300740.0,Phil Jagielka,Phil,Jagielka,1982-08-17,England,England,19.0,D,Centre Central Defender
+4786,6686.0,Eldin Jakupovic,Eldin,Jakupovic,1984-10-02,Switzerland,Switzerland,16.0,G,Goalkeeper
+3669,280528.0,Matty James,Matty,James,1991-07-22,England,England,6.0,M,Centre Central Midfielder
+21886,211523.0,Kyle Jameson,Kyle,Jameson,1998-09-11,England,England,15.0,D,Centre Central Defender
+10480,284325.0,Daryl Janmaat,Daryl,Janmaat,1989-07-22,Netherlands,Netherlands,53.0,D,Right Full Back
+15481,315807.0,Vincent Janssen,Vincent,Janssen,1994-06-15,Netherlands,Netherlands,,F,Forward
+4541,51126.0,Adnan Januzaj,Adnan,Januzaj,1995-02-05,Belgium,Belgium,11.0,M,Left/Centre/Right Attacking Midfielder
+4248,161544.0,Carl Jenkinson,Carl,Jenkinson,1992-02-08,England,England,16.0,D,Right Full Back
+5803,268718.0,Jesé,Jesé,Rodríguez Ruiz,1993-02-26,Spain,Spain,10.0,F,Left/Centre/Right Attacking Midfielder
+11070,30658.0,Jesús Gámez,Jesús,Gámez Duarte,1985-04-10,Spain,Spain,27.0,D,Right Full Back
+11355,288547.0,João Mário,João Mário,Naval Costa Eduardo,1993-01-19,Portugal,Portugal,20.0,M,Central Midfielder
+13556,306886.0,Joel Pereira,Joel Dinis,Castro Pereira,1996-06-28,Switzerland,Portugal,21.0,G,Goalkeeper
+14696,285207.0,Darnell Johnson,Darnell,Johnson,1998-09-03,England,England,6.0,D,Centre Central Defender
+4331,314643.0,Sam Johnstone,Sam,Johnstone,1993-03-25,England,England,,G,Goalkeeper
+15122,289093.0,Jonathan Dinzeyi,Jonathan,Toko Lema Dinzeyi,1999-10-13,England,England,6.0,D,Centre Central Defender
+23815,138634.0,Curtis Jones,Curtis,Jones,2001-01-30,England,England,17.0,M,Centre Central Midfielder
+14359,135702.0,Jordan Williams,Jordan,Williams,1999-10-22,England,England,2.0,D,Right Full Back
+4835,261893.0,Jordi Amat,Jordi,Amat Maas,1992-03-21,Spain,Indonesia,5.0,D,Defender
+4606,135128.0,José Fonte,José Miguel,da Rocha Fonte,1983-12-22,Portugal,Portugal,6.0,D,Centre Central Defender
+6425,315758.0,Joselu,Jose Luis,Mato Sanmartín,1990-03-27,Germany,Spain,,F,Centre Striker
+19605,30562.0,Christian Kabasele,Christian,Kabasele,1991-02-24,DR Congo,Belgium,27.0,D,Centre Central Defender
+3508,32102.0,Younes Kaboul,Younes,Kaboul,1986-01-04,France,France,4.0,D,Centre Central Defender
+19611,285386.0,Elias Kachunga,Elias,Kachunga,1992-04-22,Germany,DR Congo,24.0,F,Centre Striker
+10191,281253.0,Sullay Kaikai,Sullay,Kaikai,1995-08-26,England,Sierra Leone,16.0,F,Left/Right Winger
+4101,160059.0,Tomas Kalas,Tomas,Kalas,1993-05-15,Czech Republic,Czech Republic,22.0,D,Centre Central Defender
+3960,6566.0,Harry Kane,Harry,Kane,1993-07-28,England,England,32.0,F,Centre Striker
+13492,30960.0,N'Golo Kanté,N'Golo,Kanté,1991-03-29,France,France,7.0,M,Centre Central Midfielder
+19679,289303.0,Bartosz Kapustka,Bartosz,Kapustka,1996-12-23,Poland,Poland,67.0,M,Left/Right Winger
+19600,259077.0,Loris Karius,Loris,Karius,1993-06-22,Germany,Germany,20.0,G,Goalkeeper
+25311,258324.0,Orestis Karnezis,Orestis,Karnezis,1985-07-11,Greece,Greece,1.0,G,Goalkeeper
+5156,162028.0,Beram Kayal,Beram,Kayal,1988-05-02,Israel,Israel,21.0,M,Centre Defensive Midfielder
+20383,258494.0,Olarenwaju Kayode,Olarenwaju,Kayode,1993-05-08,Nigeria,Nigeria,8.0,F,Centre Striker
+4333,48260.0,Michael Keane,Michael,Keane,1993-01-11,England,England,5.0,D,Centre Central Defender
+3644,21247.0,Martin Kelly,Martin,Kelly,1990-04-27,England,England,,D,Right Full Back
+15194,302874.0,Daniel Kemp,Daniel,Kemp,1999-01-11,England,England,17.0,M,Right Winger
+13285,222609.0,Kenedy,Robert Kenedy,Nunes do Nascimento,1996-02-08,Brazil,Brazil,24.0,F,Left/Right Winger
+10449,268846.0,Jonjoe Kenny,Jonjoe,Kenny,1997-03-15,England,England,16.0,D,Right Full Back
+13509,163785.0,Ryan Kent,Ryan,Kent,1996-11-11,England,England,14.0,F,Left Winger
+4656,180889.0,Ki Sung-Yeung,Sung-Yeung,Ki,1989-01-24,South Korea,South Korea,10.0,M,Centre Central Midfielder
+3926,317864.0,Joshua King,Joshua,King,1992-01-15,Norway,Norway,,F,Left/Centre/Right Striker
+10517,52977.0,Stephen Kingsley,Stephen,Kingsley,1994-07-23,Scotland,Scotland,23.0,D,Left Full Back
+15134,294795.0,Nya Kirby,Nya,Kirby,2000-01-31,England,England,,M,Midfielder
+4886,111981.0,Davy Klaassen,Davy,Klaassen,1993-02-21,Netherlands,Netherlands,6.0,M,Centre Attacking Midfielder
+15608,135939.0,Ragnar Klavan,Ragnar,Klavan,1985-10-30,Estonia,Estonia,15.0,D,Left/Centre Central Defender
+14693,278030.0,Josh Knight,Josh,Knight,1997-09-07,England,England,5.0,D,Centre Central Defender
+8982,267417.0,Anthony Knockaert,Anthony,Knockaert,1991-11-20,France,France,28.0,M,Left/Centre/Right Attacking Midfielder
+4141,256687.0,Aleksandar Kolarov,Aleksandar,Kolarov,1985-11-10,Yugoslavia,Serbia,11.0,D,Left Full Back
+5368,301077.0,Sead Kolasinac,Sead,Kolasinac,1993-06-20,Germany,Bosnia & Herzegovina,23.0,D,Left Full Back
+3653,262223.0,Vincent Kompany,Vincent,Kompany,1986-04-10,Belgium,Belgium,4.0,D,Defender
+14822,301943.0,Demetri Mitchell,Demetri,Mitchell,1997-01-11,England,England,19.0,D,Left Full Back
+10464,268608.0,MJ Williams,Michael Jordan,Williams,1995-11-06,Wales,Wales,4.0,D,Centre Central Defender
+5102,314973.0,Henrikh Mkhitaryan,Henrikh,Mkhitaryan,1989-01-21,Armenia,Armenia,22.0,M,Left/Centre/Right Attacking Midfielder
+13778,168560.0,Moha,Mohamed,El Ouriachi,1996-01-13,Morocco,Spain,22.0,M,Midfielder
+5239,163773.0,Mohamed Elneny,Mohamed Naser,Elsayed Elneny,1992-07-11,Egypt,Egypt,15.0,M,Centre Defensive Midfielder
+5178,47184.0,Mohamed Salah,Mohamed,Salah Ghaly,1992-06-15,Egypt,Egypt,11.0,F,Left/Centre/Right Winger
+15293,311449.0,Jayson Molumby,Jayson,Molumby,1999-08-06,Ireland,Ireland,14.0,M,Centre Central Midfielder
+10518,162182.0,Jefferson Montero,Jefferson,Montero,1989-09-01,Ecuador,Ecuador,15.0,M,Left/Right Winger
+14698,161194.0,Elliott Moore,Elliott,Moore,1997-03-16,England,England,5.0,D,Centre Central Defender
+19619,179384.0,Aaron Mooy,Aaron,Mooy,1990-09-15,Australia,Australia,18.0,M,Centre Central Midfielder
+5804,257777.0,Álvaro Morata,Álvaro,Morata,1992-10-23,Spain,Spain,9.0,F,Centre Striker
+7219,160330.0,Alberto Moreno,Alberto,Moreno,1992-07-05,Spain,Spain,18.0,D,Left Full Back
+8966,11241.0,Wes Morgan,Wes,Morgan,1984-01-21,England,Jamaica,5.0,D,Centre Central Defender
+13387,130591.0,Ramiro Mori,Ramiro,Mori,1991-03-05,Argentina,Argentina,6.0,D,Centre Central Defender
+2529,39500.0,James Morrison,James,Morrison,1986-05-25,Scotland,Scotland,,M,Midfielder
+3983,289436.0,Victor Moses,Victor,Moses,1990-12-12,Nigeria,Nigeria,8.0,M,Midfielder
+22570,48518.0,Steve Mounié,Steve,Mounié,1994-09-29,Benin,Benin,9.0,F,Centre Striker
+19603,312907.0,Lys Mousset,Lys,Mousset,1996-02-08,France,France,99.0,F,Centre Striker
+15118,294130.0,Joy Mukena,Joy,Mukena,1999-07-03,England,England,19.0,D,Defender
+12356,186971.0,Erwin Mulder,Erwin,Mulder,1989-03-03,Netherlands,Netherlands,1.0,G,Goalkeeper
+4822,130573.0,Muniesa,Marc,Muniesa Martínez,1992-03-27,Spain,Spain,4.0,D,Centre Central Defender
+19911,285397.0,Arijanet Muric,Arijanet,Muric,1998-11-07,Switzerland,Kosovo,49.0,G,Goalkeeper
+9581,303005.0,Jamie Murphy,Jamie,Murphy,1989-08-28,Scotland,Scotland,7.0,F,Left Winger
+4772,268503.0,Glenn Murray,Glenn,Murray,1983-09-25,England,England,25.0,F,Centre Striker
+5208,94150.0,Ahmed Musa,Ahmed,Musa,1992-10-14,Nigeria,Nigeria,7.0,F,Left/Right Winger
+11147,94149.0,Charly Musonda,Charly,Musonda,1996-10-15,Belgium,Belgium,,M,Centre Attacking Midfielder
+3869,289743.0,Shkodran Mustafi,Shkodran,Mustafi,1992-04-17,Germany,Germany,13.0,D,Centre Central Defender
+3333,43189.0,Jordon Mutch,Jordon,Mutch,1991-12-02,England,England,54.0,M,Centre Attacking Midfielder
+2011,32020.0,Boaz Myhill,Boaz,Myhill,1982-11-09,Wales,Wales,1.0,G,Goalkeeper
+6903,52678.0,Clinton N'Jie,Clinton,N'Jie,1993-08-15,Cameroon,Cameroon,14.0,F,Left/Centre Striker
+4472,163201.0,Nacho Monreal,Ignacio,Monreal Eraso,1986-02-26,Spain,Spain,20.0,D,Left Full Back
+7122,163393.0,Luciano Narsingh,Luciano,Narsingh,1990-09-13,Netherlands,Netherlands,7.0,F,Left/Right Winger
+3546,144300.0,Samir Nasri,Samir,Nasri,1987-06-26,France,France,18.0,M,Left/Centre/Right Attacking Midfielder
+3956,14091.0,Kyle Naughton,Kyle,Naughton,1988-11-17,England,England,26.0,D,Right Full Back
+20538,259146.0,Papa Ndiaye,Papa,Ndiaye,1990-10-27,Senegal,Senegal,20.0,M,Centre Central Midfielder
+20479,42220.0,Wilfred Ndidi,Wilfred,Ndidi,1996-12-16,Nigeria,Nigeria,25.0,M,Centre Central Midfielder
+14270,269731.0,Mikael Ndjoli,Mikael,Ndjoli,1998-12-16,England,England,20.0,F,Striker
+20708,94225.0,Didier Ndong,Didier,Ndong,1994-06-17,Gabon,Gabon,12.0,M,Centre Central Midfielder
+14712,167063.0,Layton Ndukwu,Layton,Ndukwu,1998-09-07,England,England,17.0,F,Left/Right Winger
+14450,289557.0,Reiss Nelson,Reiss,Nelson,1999-12-10,England,England,14.0,F,Right Winger
+15184,163094.0,Vashon Neufville,Vashon,Neufville,1999-07-18,England,England,,D,Left Full Back
+15052,316011.0,Julien Ngoy,Julien,Ngoy,1997-11-02,Belgium,Belgium,,F,Forward
+13390,304580.0,Oumar Niasse,Oumar,Niasse,1990-04-18,Senegal,Senegal,21.0,F,Centre Striker
+14451,161996.0,Eddie Nketiah,Eddie,Nketiah,1999-05-30,England,England,14.0,F,Centre Striker
+15938,163251.0,Georges-Kévin Nkoudou,Georges-Kévin,Nkoudou,1995-02-13,France,France,7.0,M,Left/Right Winger
+14807,281834.0,Lukas Nmecha,Lukas,Nmecha,1998-12-14,Germany,Germany,10.0,F,Forward
+3014,4029.0,Mark Noble,Mark,Noble,1987-05-08,England,England,16.0,M,Centre Central Midfielder
+19604,105579.0,Nolito,Manuel,Agudo Durán,1986-10-15,Spain,Spain,9.0,F,Left Winger
+13795,282904.0,Kristoffer Nordfeldt,Kristoffer,Nordfeldt,1989-06-23,Sweden,Sweden,1.0,G,Goalkeeper
+23556,288592.0,Mathias Normann,Mathias,Normann,1996-05-28,Norway,Norway,16.0,M,Centre Central Midfielder
+3924,144579.0,Oliver Norwood,Oliver,Norwood,1991-04-12,Northern Ireland,Northern Ireland,16.0,M,Centre Central Midfielder
+13821,302679.0,Allan-Roméo Nyom,Allan-Roméo,Nyom,1988-05-10,France,Cameroon,22.0,D,Right Full Back
+24353,137264.0,Lewis O'Brien,Lewis,O'Brien,1998-10-14,England,England,39.0,M,Centre Central Midfielder
+20870,57260.0,Keelan O'Connell,Keelan,O'Connell,1999-11-30,England,England,52.0,M,Midfielder
+10425,21845.0,Stefan O'Connor,Stefan,O'Connor,1997-01-23,England,England,,D,Centre Central Defender
+13584,303308.0,Kieran O'Hara,Kieran,O'Hara,1996-04-22,Ireland,Ireland,13.0,G,Goalkeeper
+20095,139073.0,Aiden O'Neill,Aiden,O'Neill,1998-07-04,Australia,Australia,13.0,M,Centre Defensive Midfielder
+15154,135170.0,Dara O'Shea,Dara,O'Shea,1999-03-04,Ireland,Ireland,4.0,D,Defender
+15140,313933.0,Tashan Oakley-Boothe,Tashan,Oakley-Boothe,2000-02-14,England,England,,M,Centre Central Midfielder
+21532,297681.0,Michael Obafemi,Michael,Obafemi,2000-07-06,Ireland,Ireland,9.0,F,Forward
+13871,20343.0,Pedro Obiang,Pedro,Obiang,1992-03-27,Spain,Equatorial Guinea,14.0,M,Left/Centre Central Midfielder
+5514,20341.0,Angelo Ogbonna,Angelo,Ogbonna,1988-05-23,Italy,Italy,21.0,D,Left/Centre Central Defender
+10543,288987.0,Sheyi Ojo,Sheyi,Ojo,1997-06-19,England,England,14.0,M,Left/Right Winger
+3889,292408.0,Stefano Okaka,Stefano,Okaka,1989-08-09,Italy,Italy,77.0,F,Centre Striker
+13494,296192.0,Shinji Okazaki,Shinji,Okazaki,1986-04-16,Japan,Japan,16.0,F,Centre Striker
+13717,304290.0,Olufela Olomola,Olufela,Olomola,1997-09-05,Nigeria,England,10.0,F,Centre Striker
+2867,289029.0,Martin Olsson,Martin,Olsson,1988-05-17,Sweden,Sweden,13.0,D,Defender
+7490,162009.0,Josh Onomah,Josh,Onomah,1997-04-27,England,England,25.0,M,Left/Centre/Right Attacking Midfielder
+23615,289381.0,Henry Onyekuru,Henry,Onyekuru,1997-06-05,Nigeria,Nigeria,7.0,F,Left Winger
+10465,315585.0,Divock Origi,Divock,Origi,1995-04-18,Belgium,Belgium,,F,Centre Striker
+14436,302823.0,Jordi Osei-Tutu,Jordi,Osei-Tutu,1998-10-02,England,England,7.0,D,Right Full Back
+10420,160246.0,David Ospina,David,Ospina,1988-08-31,Colombia,Colombia,25.0,G,Goalkeeper
+6058,258178.0,Nicolás Otamendi,Nicolás,Otamendi,1988-02-12,Argentina,Argentina,30.0,D,Central Defender
+10535,170889.0,Reece Oxford,Reece,Oxford,1998-12-16,England,England,4.0,D,Centre Central Defender
+4252,53035.0,Alex Oxlade-Chamberlain,Alex,Oxlade-Chamberlain,1993-08-15,England,England,15.0,M,Left/Centre/Right Central Midfielder
+4714,279747.0,Mesut Özil,Mesut,Özil,1988-10-15,Germany,Germany,10.0,M,Centre/Right Attacking Midfielder
+13283,313729.0,Kasey Palmer,Kasey,Palmer,1996-11-09,Jamaica,Jamaica,,M,Left/Centre/Right Attacking Midfielder
+16467,289659.0,Erik Palmer-Brown,Erik,Palmer-Brown,1997-04-24,United States,United States,2.0,D,Centre Central Defender
+4319,130683.0,Costel Pantilimon,Costel,Pantilimon,1987-02-01,Romania,Romania,1.0,G,Goalkeeper
+10953,43378.0,Juan Carlos Paredes,Juan Carlos,Paredes,1987-07-08,Ecuador,Ecuador,44.0,D,Right Full Back
+10440,257720.0,Mario Pasalic,Mario,Pasalic,1995-02-09,Germany,Croatia,88.0,M,Centre Central Midfielder
+13962,300561.0,Josh Pask,Josh,Pask,1997-11-01,England,England,4.0,D,Centre Central Defender
+9664,189406.0,Jack Payne,Jack,Payne,1994-10-25,England,England,10.0,M,Centre Attacking Midfielder
+4972,289288.0,Pedro,Pedro,Rodríguez Ledesma,1987-07-28,Spain,Spain,9.0,F,Left/Right Winger
+13825,296253.0,Adalberto Peñaranda,Adalberto,Peñaranda,1997-05-31,Venezuela,Venezuela,7.0,F,Centre Striker
+9895,281206.0,Matthew Pennington,Matthew,Pennington,1994-10-06,England,England,5.0,D,Centre Central Defender
+21903,299664.0,Dion Pereira,Dion,Pereira,1999-03-25,England,England,28.0,M,Left Winger
+11213,281575.0,Roberto Pereyra,Roberto,Pereyra,1991-01-07,Argentina,Argentina,37.0,M,Centre Attacking Midfielder
+7081,302938.0,Lucas Pérez,Lucas,Pérez,1988-09-10,Spain,Spain,25.0,F,Centre Striker
+14144,167355.0,Kleton Perntreou,Kleton,Perntreou,1995-01-08,Greece,Greece,,G,Goalkeeper
+4525,312585.0,Philippe Coutinho,Philippe,Coutinho Correia,1992-06-12,Brazil,Brazil,23.0,M,Left/Centre/Right Attacking Midfielder
+14161,117134.0,Michael Phillips,Michael,Phillips,1997-09-22,England,England,22.0,M,Midfielder
+4640,53188.0,Jordan Pickford,Jordan,Pickford,1994-03-07,England,England,1.0,G,Goalkeeper
+12463,137887.0,Jérémy Pied,Jérémy,Pied,1989-02-23,France,France,26.0,D,Right Full Back
+4821,160313.0,Erik Pieters,Erik,Pieters,1988-08-07,Netherlands,Netherlands,23.0,D,Left Full Back
+3920,172304.0,Paul Pogba,Paul,Pogba,1993-03-15,France,France,10.0,M,Centre Central Midfielder
+10079,313738.0,Nick Pope,Nick,Pope,1992-04-19,England,England,,G,Goalkeeper
+4433,281215.0,Alex Pritchard,Alex,Pritchard,1993-05-03,England,England,21.0,M,Centre Attacking Midfielder
+13822,281604.0,Sebastian Prödl,Sebastian,Prödl,1987-06-21,Austria,Austria,4.0,D,Centre Central Defender
+16790,114730.0,Davy Pröpper,Davy,Pröpper,1991-09-02,Netherlands,Netherlands,14.0,M,Centre Central Midfielder
+12359,269946.0,Terence Kongolo,Terence,Kongolo,1994-02-14,Switzerland,Netherlands,30.0,D,Central Defender
+4030,170758.0,Laurent Koscielny,Laurent,Koscielny,1985-09-10,France,France,6.0,D,Centre Central Defender
+5861,134321.0,Cheikhou Kouyaté,Cheikhou,Kouyaté,1989-12-21,Senegal,Senegal,8.0,M,Centre Central Midfielder
+3169,133649.0,Tim Krul,Tim,Krul,1988-04-03,Netherlands,Netherlands,1.0,G,Goalkeeper
+12735,306840.0,Grzegorz Krychowiak,Grzegorz,Krychowiak,1990-01-29,Poland,Poland,16.0,M,Midfielder
+6899,112119.0,Alexandre Lacazette,Alexandre,Lacazette,1991-05-28,France,France,10.0,F,Centre Striker
+4618,186673.0,Adam Lallana,Adam,Lallana,1988-05-10,England,England,14.0,M,Left/Centre/Right Attacking Midfielder
+4842,283441.0,Erik Lamela,Erik,Lamela,1992-03-04,Argentina,Argentina,17.0,M,Left/Centre/Right Attacking Midfielder
+13872,35213.0,Manuel Lanzini,Manuel,Lanzini,1993-02-15,Argentina,Argentina,,M,Left/Centre/Right Attacking Midfielder
+11044,94133.0,Aymeric Laporte,Aymeric,Laporte,1994-05-27,France,Spain,14.0,D,Centre Central Defender
+9257,14914.0,Jamaal Lascelles,Jamaal,Lascelles,1993-11-11,England,England,16.0,D,Centre Central Defender
+14776,259505.0,Joel Latibeaudiere,Joel,Latibeaudiere,2000-01-06,Jamaica,England,22.0,D,Centre Central Defender
+14642,277631.0,Shayne Lavery,Shayne,Lavery,1998-12-08,Northern Ireland,Northern Ireland,19.0,F,Centre Striker
+5561,316154.0,Tom Lawrence,Tom,Lawrence,1994-01-13,Wales,Wales,,F,Centre Second Striker
+20180,315599.0,Achraf Lazaar,Achraf,Lazaar,1992-01-22,Morocco,Morocco,23.0,D,Left Full Back
+3830,267759.0,Lee Chung-Yong,Chung-Yong,Lee,1988-07-02,South Korea,South Korea,72.0,M,Midfielder
+2852,51785.0,Adam Legzdins,Adam,Legzdins,1986-11-28,England,England,30.0,G,Goalkeeper
+16607,282356.0,Florian Lejeune,Florian,Lejeune,1991-05-20,France,France,22.0,D,Centre Central Defender
+13866,289095.0,Jonathan Leko,Jonathan,Leko,1999-04-24,England,England,18.0,F,Left/Right Winger
+5583,283232.0,Mario Lemina,Mario,Lemina,1993-09-01,Gabon,Gabon,99.0,M,Centre Defensive Midfielder
+2270,288361.0,Aaron Lennon,Aaron,Lennon,1987-04-16,England,England,17.0,M,Right Winger
+16550,263089.0,Filip Lesniak,Filip,Lesniak,1996-05-14,Slovakia,Slovakia,23.0,M,Defensive Midfielder
+14982,314379.0,Harry Lewis,Harry,Lewis,1997-12-20,England,England,,G,Goalkeeper
+4154,53321.0,Anders Lindegaard,Anders,Lindegaard,1984-04-13,Denmark,Denmark,22.0,G,Goalkeeper
+5066,47188.0,Victor Lindelöf,Victor,Lindelöf,1994-07-17,Sweden,Sweden,2.0,D,Centre/Right Central Defender
+4337,268322.0,Jesse Lingard,Jesse,Lingard,1992-12-15,England,England,11.0,M,Left/Centre/Right Attacking Midfielder
+3244,270979.0,Jake Livermore,Jake,Livermore,1989-11-14,England,England,,M,Centre Central Midfielder
+5551,296173.0,Fernando Llorente,Fernando,Llorente,1985-02-26,Spain,Spain,12.0,F,Centre Striker
+4664,6503.0,Hugo Lloris,Hugo,Lloris,1986-12-26,France,France,1.0,G,Goalkeeper
+7124,171568.0,Jürgen Locadia,Jürgen,Locadia,1993-11-07,Netherlands,Netherlands,37.0,F,Centre Striker
+5179,258900.0,Ruben Loftus-Cheek,Ruben,Loftus-Cheek,1996-01-23,England,England,15.0,M,Centre Attacking Midfielder
+14168,189312.0,Jason Lokilo,Jason,Lokilo,1998-09-17,Belgium,DR Congo,10.0,M,Right Winger
+8888,94284.0,Joe Lolley,Joe,Lolley,1992-08-25,England,England,23.0,F,Left/Right Winger
+3837,19667.0,Kevin Long,Kevin,Long,1990-08-18,Ireland,Ireland,40.0,D,Centre/Right Full Back
+13278,288962.0,Ademola Lookman,Ademola,Lookman,1997-10-20,England,Nigeria,37.0,F,Left/Right Winger
+12444,317144.0,Jonas Lössl,Jonas,Lössl,1989-02-01,Denmark,Denmark,49.0,G,Goalkeeper
+4813,187060.0,Dejan Lovren,Dejan,Lovren,1989-07-05,Bosnia & Herzegovina,Croatia,6.0,D,Centre Central Defender
+4487,18842.0,Matthew Lowton,Matthew,Lowton,1989-06-09,England,England,2.0,D,Right Full Back
+3173,282922.0,Kazenga LuaLua,Kazenga,LuaLua,1990-12-10,DR Congo,DR Congo,25.0,M,Left/Right Winger
+3137,51075.0,Lucas Leiva,Lucas Pezzini,Leiva,1987-01-09,Brazil,Brazil,6.0,M,Centre Central Midfielder
+5762,94228.0,Lucas Moura,Lucas,Rodrigues Moura da Silva,1992-08-13,Brazil,Brazil,27.0,F,Right Winger
+4290,314976.0,Romelu Lukaku,Romelu,Lukaku,1993-05-13,Belgium,Belgium,90.0,F,Centre Striker
+16088,289080.0,Dodi Lukébakio,Dodi,Lukébakio,1997-09-24,Belgium,Belgium,28.0,F,Left/Right Winger
+14170,281758.0,Levi Lumeka,Levi,Lumeka,1998-09-05,England,England,12.0,F,Left/Right Winger
+10422,313730.0,Matt Macey,Matt,Macey,1994-09-09,England,England,,G,Goalkeeper
+13228,264931.0,Niki Mäenpää,Niki,Mäenpää,1985-01-23,Finland,Finland,31.0,G,Goalkeeper
+13987,314934.0,Pablo Maffeo,Pablo,Maffeo,1997-07-12,Spain,Spain,,D,Right Full Back
+9566,161345.0,Harry Maguire,Harry,Maguire,1993-03-05,England,England,5.0,D,Centre Central Defender
+7985,315741.0,Connor Mahoney,Connor,Mahoney,1997-02-12,England,England,,M,Left/Right Winger
+8983,131779.0,Riyad Mahrez,Riyad,Mahrez,1991-02-21,France,Algeria,26.0,F,Left/Right Winger
+10428,315337.0,Ainsley Maitland-Niles,Ainsley,Maitland-Niles,1997-08-29,England,England,15.0,M,Left/Right Wing Back
+15418,185047.0,Moses Makasi,Moses,Makasi,1995-09-22,England,England,10.0,M,Centre Defensive Midfielder
+14456,283494.0,Donyell Malen,Donyell,Malen,1999-01-19,Netherlands,Netherlands,21.0,F,Left/Centre Striker
+3995,277650.0,Scott Malone,Scott,Malone,1991-03-25,England,England,11.0,D,Left Full Back
+5566,7436.0,Steve Mandanda,Steve,Mandanda,1985-03-28,DR Congo,France,30.0,G,Goalkeeper
+6519,314750.0,Sadio Mané,Sadio,Mané,1992-04-10,Senegal,Senegal,17.0,F,Left/Right Winger
+5334,162276.0,Eliaquim Mangala,Eliaquim,Mangala,1991-02-13,France,France,4.0,D,Centre Central Defender
+4918,50136.0,Javier Manquillo,Javier,Manquillo,1994-05-05,Spain,Spain,19.0,D,Right Full Back
+12374,258327.0,Elvis Manu,Elvis,Manu,1993-08-13,Netherlands,Ghana,10.0,F,Forward
+8171,10212.0,Solly March,Solly,March,1994-07-20,England,England,20.0,M,Left/Centre/Right Attacking Midfielder
+3251,311668.0,Adrian Mariappa,Adrian,Mariappa,1986-10-03,England,Jamaica,,D,Central Defender
+15404,94436.0,Adnan Maric,Adnan,Maric,1997-02-17,Sweden,Sweden,29.0,M,Midfielder
+5078,126089.0,Lazar Markovic,Lazar,Markovic,1994-03-02,Serbia,Serbia,50.0,M,Left/Right Winger
+2359,134422.0,Dean Marney,Dean,Marney,1984-01-31,England,England,25.0,M,Centre Central Midfielder
+11272,301809.0,Anthony Martial,Anthony,Martial,1995-12-05,France,France,22.0,F,Left/Centre/Right Striker
+4245,252275.0,Emiliano Martínez,Emiliano,Martínez,1992-09-02,Argentina,Argentina,1.0,G,Goalkeeper
+11177,305212.0,Bruno Martins Indi,Bruno,Martins Indi,1992-02-08,Portugal,Netherlands,4.0,D,Defender
+19677,306674.0,Brandon Mason,Brandon,Mason,1997-09-30,England,England,31.0,D,Left Full Back
+13932,167431.0,Ntumba Massanka,Ntumba,Massanka,1996-11-30,England,England,18.0,M,Midfielder
+13508,302456.0,Conor Masterson,Conor,Masterson,1998-09-08,Ireland,Ireland,15.0,D,Centre Central Defender
+11284,31289.0,Arthur Masuaku,Arthur,Masuaku,1993-11-07,France,DR Congo,26.0,D,Left Full Back
+4287,7431.0,Juan Mata,Juan,Mata,1988-04-28,Spain,Spain,8.0,M,Left/Centre/Right Attacking Midfielder
+16275,170775.0,Ales Mateju,Ales,Mateju,1996-06-03,Czech Republic,Czech Republic,3.0,D,Centre Central Defender
+3861,314809.0,Nemanja Matic,Nemanja,Matic,1988-08-01,Yugoslavia,Serbia,,M,Centre Central Midfielder
+5375,26146.0,Joel Matip,Joel,Matip,1991-08-08,Germany,Cameroon,32.0,D,Centre Central Defender
+32638,257038.0,Konstantinos Mavropanos,Konstantinos,Mavropanos,1997-12-11,Greece,Greece,5.0,D,Centre Central Defender
+9960,219430.0,Alfie Mawson,Alfie,Mawson,1994-01-19,England,England,5.0,D,Centre Central Defender
+5850,133721.0,Chancel Mbemba,Chancel,Mbemba,1994-08-08,DR Congo,DR Congo,19.0,D,Centre/Right Central Defender
+4224,52229.0,James McArthur,James,McArthur,1987-10-07,Scotland,Scotland,,M,Central Midfielder
+4437,137403.0,Gareth McAuley,Gareth,McAuley,1979-12-05,Northern Ireland,Northern Ireland,36.0,D,Centre Central Defender
+8107,160847.0,Oliver McBurnie,Oliver,McBurnie,1996-06-04,England,Scotland,9.0,F,Centre Striker
+3979,289231.0,James McCarthy,James,McCarthy,1990-11-12,Ireland,Ireland,16.0,M,Centre Central Midfielder
+4395,59392.0,James McClean,James,McClean,1989-04-22,Northern Ireland,Ireland,23.0,M,Left Winger
+14447,275781.0,Marcus McGuane,Marcus,McGuane,1999-02-02,England,England,18.0,M,Centre Defensive Midfielder
+3779,281230.0,Callum McManaman,Callum,McManaman,1991-04-25,England,England,14.0,M,Left/Right Winger
+24797,135908.0,Dwight McNeil,Dwight,McNeil,1999-11-22,England,England,11.0,M,Left/Centre Winger
+9649,309254.0,Sam McQueen,Sam,McQueen,1995-02-06,England,England,,M,Left Winger
+14824,43231.0,Scott McTominay,Scott,McTominay,1996-12-08,England,Scotland,39.0,M,Centre Attacking Midfielder
+3909,10292.0,Ben Mee,Ben,Mee,1989-09-21,England,England,6.0,D,Left/Centre Central Defender
+15160,314594.0,Max Melbourne,Max,Melbourne,1998-10-24,England,England,,D,Left Full Back
+19617,190142.0,Nampalys Mendy,Nampalys,Mendy,1992-06-23,Senegal,Senegal,,M,Midfielder
+19778,132041.0,Mikel Merino,Mikel,Merino,1996-06-22,Spain,Spain,8.0,M,Centre Central Midfielder
+4246,140323.0,Per Mertesacker,Per,Mertesacker,1984-09-29,Germany,Germany,4.0,D,Centre Central Defender
+22575,258897.0,Roque Mesa,Roque,Mesa,1989-06-07,Spain,Spain,17.0,M,Centre Central Midfielder
+13280,288157.0,Matt Miazga,Matt,Miazga,1995-07-19,United States,United States,4.0,D,Centre Central Defender
+4179,162448.0,Simon Mignolet,Simon,Mignolet,1988-03-06,Belgium,Belgium,22.0,G,Goalkeeper
+5859,7748.0,Luka Milivojevic,Luka,Milivojevic,1991-04-07,Yugoslavia,Serbia,4.0,M,Centre Central Midfielder
+2100,19506.0,James Milner,James,Milner,1986-01-04,England,England,7.0,M,Left/Centre/Right Central Midfielder
+8900,160323.0,Tyrone Mings,Tyrone,Mings,1993-03-13,England,England,5.0,D,Centre Central Defender
+4507,134603.0,Kevin Mirallas,Kevin,Mirallas,1987-10-05,Belgium,Belgium,11.0,F,Left/Right Winger
+8049,261396.0,Marc Pugh,Marc,Pugh,1987-04-02,England,England,27.0,M,Left Winger
+4084,144539.0,Jason David Ian Puncheon,Jason David Ian,Puncheon,1986-06-18,England,England,42.0,M,Left/Centre/Right Attacking Midfielder
+21677,145030.0,Collin Quaner,Collin,Quaner,1991-06-18,Germany,Germany,45.0,F,Centre Striker
+23820,289483.0,Rafael Camacho,Rafael Euclides,Soares Camacho,2000-05-22,Portugal,Portugal,64.0,M,Winger
+11241,15927.0,Erdal Rakip,Erdal,Rakip,1996-02-13,Sweden,North Macedonia,7.0,M,Centre Central Midfielder
+19673,263668.0,Ramadan Sobhi,Ramadan Sobhi Ramadan,Ahmed,1997-01-23,Egypt,Egypt,14.0,M,Winger
+11074,284909.0,Sandro Ramírez,Sandro,Ramírez,1995-07-09,Spain,Spain,12.0,F,Left/Centre/Right Winger
+13703,288169.0,Aaron Ramsdale,Aaron,Ramsdale,1998-05-14,England,England,32.0,G,Goalkeeper
+3548,303239.0,Aaron Ramsey,Aaron,Ramsey,1990-12-26,Wales,Wales,16.0,M,Centre Central Midfielder
+11013,136272.0,Connor Randall,Connor,Randall,1995-10-21,England,England,12.0,D,Defender
+2216,274363.0,Darren Randolph,Darren,Randolph,1987-05-12,Ireland,Ireland,,G,Goalkeeper
+4405,135805.0,Angel Rangel,Angel,Rangel,1982-11-28,Spain,Spain,22.0,D,Right Full Back
+13565,19620.0,Marcus Rashford,Marcus,Rashford,1997-10-31,England,England,10.0,F,Left/Centre Second Striker
+3811,30552.0,Nathan Redmond,Nathan,Redmond,1994-03-06,England,England,11.0,M,Left/Right Winger
+4818,202622.0,Harrison Reed,Harrison,Reed,1995-01-27,England,England,6.0,M,Centre Central Midfielder
+4209,268500.0,Winston Reid,Winston,Reid,1988-07-03,New Zealand,New Zealand,23.0,D,Centre Central Defender
+13123,259061.0,Jeff Reine-Adélaïde,Jeff,Reine-Adélaïde,1998-01-17,France,France,29.0,M,Left/Right Winger
+4572,306348.0,Loïc Rémy,Loïc,Rémy,1987-01-02,France,France,59.0,F,Centre Striker
+16646,162600.0,Renato Sanches,Renato Júnior,Luz Sanches,1997-08-18,Portugal,Portugal,10.0,M,Centre Central Midfielder
+15202,42169.0,Declan Rice,Declan,Rice,1999-01-14,England,England,41.0,M,Midfielder
+24630,314636.0,Richarlison,Richarlison,de Andrade,1997-05-10,Brazil,Brazil,9.0,F,Left/Centre/Right Second Striker
+4878,50336.0,Jairo Riedewald,Jairo,Riedewald,1996-09-09,Netherlands,Netherlands,44.0,M,Centre Central Midfielder
+3934,30598.0,Matt Ritchie,Matt,Ritchie,1989-09-10,England,Scotland,11.0,M,Left/Right Winger
+10488,284025.0,Emmanuel Rivière,Emmanuel,Rivière,1990-03-03,Martinique,Martinique,97.0,F,Centre Striker
+13230,161298.0,Rob Hunt,Robert,Hunt,1995-07-07,England,England,24.0,D,Right Full Back
+13511,19511.0,Roberto Firmino,Roberto Firmino,Barbosa de Oliveira,1991-10-02,Brazil,Brazil,9.0,F,Left/Centre/Right Striker
+8710,301369.0,Patrick Roberts,Patrick,Roberts,1997-02-05,England,England,77.0,M,Left/Centre/Right Attacking Midfielder
+10458,50135.0,Andrew Robertson,Andrew,Robertson,1994-03-11,Scotland,Scotland,26.0,D,Left Full Back
+4696,130764.0,Joel Robles,Joel,Robles,1990-06-17,Spain,Spain,1.0,G,Goalkeeper
+3484,35863.0,Hal Robson-Kanu,Hal,Robson-Kanu,1989-05-21,Wales,Wales,4.0,F,Left/Centre/Right Second Striker
+13796,259532.0,Joe Rodon,Joe,Rodon,1997-10-22,Wales,Wales,14.0,D,Centre Central Defender
+3851,95187.0,Jay Rodriguez,Jay,Rodriguez,1989-07-29,England,England,19.0,F,Left/Centre/Right Second Striker
+10472,295821.0,Marcos Rojo,Marcos,Rojo,1990-03-20,Argentina,Argentina,6.0,D,Left/Centre Central Defender
+13555,19603.0,Sergio Romero,Sergio,Romero,1987-02-22,Argentina,Argentina,22.0,G,Goalkeeper
+4286,20061.0,Oriol Romeu,Oriol,Romeu,1991-09-24,Spain,Spain,6.0,M,Centre Defensive Midfielder
+6030,288985.0,Salomón Rondón,Salomón,Rondón,1989-09-16,Venezuela,Venezuela,33.0,F,Centre Striker
+2064,285067.0,Wayne Rooney,Wayne,Rooney,1985-10-24,England,England,32.0,F,Centre Second Striker
+3507,277658.0,Danny Rose,Danny,Rose,1990-07-02,England,England,3.0,D,Left Full Back
+2464,90689.0,Liam Rosenior,Liam,Rosenior,1984-07-09,England,England,23.0,D,Defender
+2681,6161.0,Wayne Routledge,Wayne,Routledge,1985-01-07,England,England,15.0,M,Right Winger
+14285,167287.0,Charlie Rowan,Charlie,Rowan,1997-12-14,England,England,15.0,D,Centre Central Defender
+16801,315688.0,Antonio Rüdiger,Antonio,Rüdiger,1993-03-03,Germany,Germany,22.0,D,Defender
+12192,280853.0,Mathew Ryan,Mathew,Ryan,1992-04-08,Australia,Australia,13.0,G,Goalkeeper
+22591,317496.0,Abdelhamid Sabiri,Abdelhamid,Sabiri,1996-11-28,Morocco,Germany,,M,Centre Attacking Midfielder
+6251,53441.0,Henri Saivet,Henri,Saivet,1990-10-26,Senegal,Senegal,,M,Midfielder
+4796,315859.0,Mamadou Sakho,Mamadou,Sakho,1990-02-13,France,France,75.0,D,Centre Central Defender
+10004,154249.0,Bakary Sako,Bakary,Sako,1988-04-26,France,Mali,26.0,M,Left/Right Winger
+13648,179199.0,Martin Samuelsen,Martin,Samuelsen,1997-04-17,Norway,Norway,14.0,M,Left/Centre/Right Attacking Midfielder
+4973,187459.0,Alexis Sánchez,Alexis,Sánchez,1988-12-19,Chile,Chile,7.0,F,Left/Centre/Right Second Striker
+14801,282364.0,Jadon Sancho,Jadon,Sancho,2000-03-25,England,England,25.0,F,Left/Right Winger
+14554,268742.0,Max Sanders,Max,Sanders,1999-01-04,England,England,6.0,M,Centre Central Midfielder
+5384,184687.0,Leroy Sané,Leroy,Sané,1996-01-11,Germany,Germany,10.0,F,Left/Centre/Right Winger
+4477,100206.0,Santi Cazorla,Santiago,Cazorla González,1984-12-13,Spain,Spain,8.0,M,Left/Centre/Right Attacking Midfielder
+8887,211516.0,Sean Scannell,Sean,Scannell,1990-09-17,Ireland,Ireland,11.0,M,Left/Right Winger
+16234,90688.0,Ezequiel Schelotto,Ezequiel,Schelotto,1989-05-23,Argentina,Argentina,21.0,D,Defender
+19607,312524.0,Christopher Schindler,Christopher,Schindler,1990-04-29,Germany,Germany,16.0,D,Centre Central Defender
+8980,42727.0,Jeffrey Schlupp,Jeffrey,Schlupp,1992-12-23,Germany,Ghana,15.0,M,Left Winger
+2508,11230.0,Kasper Schmeichel,Kasper,Schmeichel,1986-11-05,Denmark,Denmark,1.0,G,Goalkeeper
+4615,258394.0,Morgan Schneiderlin,Morgan,Schneiderlin,1989-11-08,France,France,6.0,M,Centre Defensive Midfielder
+24346,145169.0,Ryan Schofield,Ryan,Schofield,1999-12-11,England,England,27.0,G,Goalkeeper
+14578,162262.0,Kyle Scott,Kyle,Scott,1997-12-22,England,United States,,M,Centre Central Midfielder
+16723,313332.0,Matz Sels,Matz,Sels,1992-02-26,Belgium,Belgium,1.0,G,Goalkeeper
+5267,289343.0,Xherdan Shaqiri,Xherdan,Shaqiri,1991-10-10,Kosovo,Switzerland,29.0,M,Left/Right Winger
+15142,179128.0,Samuel Shashoua,Samuel,Shashoua,1999-05-13,England,England,,M,Midfielder
+4608,14011.0,Luke Shaw,Luke,Shaw,1995-07-12,England,England,23.0,D,Left Full Back
+3158,166767.0,Ryan Shawcross,Ryan,Shawcross,1987-10-04,England,England,,D,Centre Central Defender
+13121,277792.0,Ben Sheaf,Ben,Sheaf,1998-02-05,England,England,14.0,M,Centre Central Midfielder
+4135,19695.0,Jonjo Shelvey,Jonjo,Shelvey,1992-02-27,England,England,8.0,M,Centre Central Midfielder
+10507,185919.0,Oliver Shenton,Oliver,Shenton,1997-11-06,England,England,,M,Midfielder
+2007,30580.0,Steve Sidwell,Steve,Sidwell,1982-12-14,England,England,14.0,M,Centre Central Midfielder
+4421,52240.0,Gylfi Sigurdsson,Gylfi,Sigurdsson,1989-09-08,Iceland,Iceland,10.0,M,Left/Centre/Right Attacking Midfielder
+4145,189086.0,David Silva,David,Silva,1986-01-08,Spain,Spain,21.0,M,Left/Centre/Right Attacking Midfielder
+13193,268856.0,Jack Simpson,Jack,Simpson,1996-12-18,England,England,15.0,D,Centre Central Defender
+15374,268738.0,Josh Sims,Josh,Sims,1997-03-28,England,England,20.0,M,Left/Right Winger
+4529,259052.0,Jerome Sinclair,Jerome,Sinclair,1996-09-20,England,England,,F,Centre Striker
+4549,288560.0,Moussa Sissoko,Moussa,Sissoko,1989-08-16,France,France,19.0,M,Centre/Right Central Midfielder
+13232,153051.0,Jiri Skalak,Jiri,Skalak,1992-03-12,Czech Republic,Czech Republic,26.0,M,Left/Right Winger
+11364,172378.0,Islam Slimani,Islam,Slimani,1988-06-18,Algeria,Algeria,9.0,F,Centre Striker
+3613,259066.0,Chris Smalling,Chris,Smalling,1989-11-22,England,England,6.0,D,Centre Central Defender
+3512,10050.0,Adam Smith,Adam,Smith,1991-04-29,England,England,15.0,D,Right Full Back
+4558,304946.0,Robert Snodgrass,Robert,Snodgrass,1987-09-07,Scotland,Scotland,12.0,M,Left/Right Attacking Midfielder
+16608,288749.0,Rubén Sobrino,Rubén,Sobrino,1992-06-01,Spain,Spain,21.0,F,Left/Centre/Right Second Striker
+10443,144510.0,Dominic Solanke,Dominic,Solanke,1997-09-14,England,England,9.0,F,Centre Striker
+4999,20239.0,Son Heung-Min,Heung-Min,Son,1992-07-08,South Korea,South Korea,7.0,F,Left/Centre/Right Winger
+10444,289843.0,Pape Souaré,Pape,Souaré,1990-06-06,Senegal,Senegal,27.0,D,Left Full Back
+21809,154756.0,Harry Souttar,Harry,Souttar,1998-10-22,Australia,Australia,6.0,D,Centre Central Defender
+2664,21225.0,Julian Speroni,Julian,Speroni,1979-05-18,Argentina,Argentina,,G,Goalkeeper
+4679,14424.0,Raphael Spiegel,Raphael,Spiegel,1992-12-19,Switzerland,Switzerland,24.0,G,Goalkeeper
+4988,171555.0,Konstantinos Stafylidis,Konstantinos,Stafylidis,1993-12-02,Greece,Greece,5.0,D,Left Full Back
+3766,14289.0,Junior Stanislas,Junior,Stanislas,1989-11-26,England,England,19.0,M,Left/Right Winger
+4779,98488.0,Maarten Stekelenburg,Maarten,Stekelenburg,1982-09-22,Netherlands,Netherlands,1.0,G,Goalkeeper
+8168,256106.0,Dale Stephens,Dale,Stephens,1989-06-12,England,England,16.0,M,Centre Central Midfielder
+14572,288639.0,Dujon Sterling,Dujon,Sterling,1999-10-24,England,England,35.0,D,Right Full Back
+10482,266634.0,Jamie Sterry,Jamie,Sterry,1995-11-21,England,England,2.0,D,Right Full Back
+4426,268028.0,Kevin Stewart,Kevin,Stewart,1993-09-07,England,Jamaica,6.0,M,Centre Defensive Midfielder
+4505,31291.0,John Stones,John,Stones,1994-05-28,England,England,5.0,D,Centre Central Defender
+1295,32992.0,Stuart Taylor,Stuart,Taylor,1980-11-28,England,England,28.0,G,Goalkeeper
+3154,183551.0,Daniel Sturridge,Daniel,Sturridge,1989-09-01,England,England,19.0,F,Centre Striker
+4925,154343.0,Mario Suárez,Mario,Suárez,1987-02-24,Spain,Spain,4.0,M,Centre Defensive Midfielder
+19618,315803.0,Isaac Success,Isaac,Success,1996-01-07,Nigeria,Nigeria,7.0,F,Centre Striker
+5810,202618.0,Claudio Bravo,Claudio,Bravo,1983-04-13,Chile,Chile,25.0,G,Goalkeeper
+14742,258131.0,Rhian Brewster,Rhian,Brewster,2000-04-01,England,England,7.0,F,Centre Striker
+5668,20252.0,Miguel Britos,Miguel,Britos,1985-07-17,Uruguay,Uruguay,3.0,D,Left/Centre Central Defender
+2152,6157.0,Leon Britton,Leon,Britton,1982-09-16,England,England,7.0,M,Centre Central Midfielder
+14636,287703.0,Nathan Broadhead,Nathan,Broadhead,1998-04-05,Wales,Wales,9.0,F,Centre Striker
+4674,277654.0,Isaiah Brown,Isaiah,Brown,1997-01-07,England,England,20.0,M,Centre Central Midfielder
+13873,219759.0,Marcus Browne,Marcus,Browne,1997-12-18,England,England,11.0,M,Centre Attacking Midfielder
+8162,10195.0,Bruno,Bruno,Saltor Grau,1980-10-01,Spain,Spain,2.0,D,Right Full Back
+3744,222348.0,Chris Brunt,Chris,Brunt,1984-12-14,Northern Ireland,Northern Ireland,29.0,M,Left Winger
+23695,315587.0,Marcin Bulka,Marcin,Bulka,1999-10-04,Poland,Poland,1.0,G,Goalkeeper
+8892,283382.0,Harry Bunn,Harry,Bunn,1992-11-21,England,England,17.0,F,Centre Striker
+10596,314840.0,Oliver Burke,Oliver,Burke,1997-04-07,Scotland,Scotland,,F,Winger
+11965,314385.0,Matt Butcher,Matt,Butcher,1997-05-14,England,England,7.0,M,Centre Central Midfielder
+4634,259543.0,Jack Butland,Jack,Butland,1993-03-10,England,England,1.0,G,Goalkeeper
+10956,285227.0,George Byers,George,Byers,1996-05-29,Scotland,Scotland,14.0,M,Centre Central Midfielder
+8945,160495.0,Sam Byram,Sam,Byram,1993-09-16,England,England,3.0,D,Right Full Back
+10466,298744.0,Willy Caballero,Willy,Caballero,1981-09-28,Argentina,Argentina,13.0,G,Goalkeeper
+4341,163664.0,Yohan Cabaye,Yohan,Cabaye,1986-01-14,France,France,29.0,M,Centre Central Midfielder
+14547,140571.0,Tom Cadman,Tom,Cadman,1998-05-04,Ireland,Ireland,45.0,D,Defender
+2620,317527.0,Gary Cahill,Gary,Cahill,1985-12-19,England,England,24.0,D,Centre Central Defender
+9576,41062.0,Dominic Calvert-Lewin,Dominic,Calvert-Lewin,1997-03-16,England,England,9.0,F,Centre Striker
+4636,160692.0,Geoff Cameron,Geoff,Cameron,1985-07-11,United States,United States,20.0,M,Centre Central Midfielder
+4254,298499.0,Joel Campbell,Joel,Campbell,1992-06-26,Costa Rica,Costa Rica,8.0,F,Forward
+5001,187029.0,Emre Can,Emre,Can,1994-01-12,Germany,Germany,23.0,M,Centre Central Midfielder
+4843,266708.0,Etienne Capoue,Etienne,Capoue,1988-07-11,France,France,6.0,M,Midfielder
+9869,266975.0,Baily Cargill,Baily,Cargill,1995-07-05,England,England,6.0,D,Centre Central Defender
+1634,4242.0,Michael Carrick,Michael,Carrick,1981-07-28,England,England,16.0,M,Centre Central Midfielder
+15989,258829.0,Guido Carrillo,Guido,Carrillo,1991-05-25,Argentina,Argentina,7.0,F,Centre Striker
+4430,287701.0,Tom Carroll,Tom,Carroll,1992-05-28,England,England,25.0,M,Centre Central Midfielder
+13814,312808.0,Cameron Carter-Vickers,Cameron,Carter-Vickers,1997-12-31,England,United States,20.0,D,Centre Central Defender
+3160,15257.0,Craig Cathcart,Craig,Cathcart,1989-02-06,Northern Ireland,Northern Ireland,15.0,D,Centre Central Defender
+2651,266361.0,Petr Cech,Petr,Cech,1982-05-20,Czech Republic,Czech Republic,1.0,G,Goalkeeper
+11347,259558.0,Cédric Soares,Cédric Ricardo,Alves Soares,1991-08-31,Germany,Portugal,,D,Defender
+4844,257772.0,Nacer Chadli,Nacer,Chadli,1989-08-02,Belgium,Belgium,11.0,M,Left/Centre/Right Attacking Midfielder
+4105,288996.0,Nathaniel Chalobah,Nathaniel,Chalobah,1994-12-12,Sierra Leone,England,12.0,M,Centre Defensive Midfielder
+4620,302348.0,Calum Chambers,Calum,Chambers,1995-01-20,England,England,16.0,D,Centre/Right Central Defender
+14632,302481.0,Harry Charsley,Harry,Charsley,1996-11-01,Ireland,Ireland,20.0,M,Centre Central Midfielder
+4161,181030.0,Chicharito,Javier,Hernández Balcázar,1988-06-01,Mexico,Mexico,14.0,F,Centre Striker
+13491,194764.0,Ben Chilwell,Ben,Chilwell,1996-12-21,England,England,21.0,D,Left Full Back
+13510,155186.0,Pedro Chirivella,Pedro,Chirivella,1997-05-23,Spain,Spain,,M,Centre Central Midfielder
+13248,135757.0,Hamza Choudhury,Hamza,Choudhury,1997-10-01,England,England,20.0,M,Centre Central Midfielder
+11191,259020.0,Eric Choupo-Moting,Eric,Choupo-Moting,1989-03-23,Germany,Cameroon,13.0,F,Left/Centre/Right Striker
+19608,171328.0,Chris Löwe,Chris,Löwe,1989-04-16,Germany,Germany,15.0,D,Left Full Back
+4495,315360.0,Andreas Christensen,Andreas,Christensen,1996-04-10,Denmark,Denmark,,D,Centre Central Defender
+3562,259574.0,Ciaran Clark,Ciaran,Clark,1989-09-26,Ireland,Ireland,,D,Central Defender
+11146,313100.0,Jake Clarke-Salter,Jake,Clarke-Salter,1997-09-22,England,England,,D,Centre Central Defender
+12365,163235.0,Jordy Clasie,Jordy,Clasie,1991-06-27,Netherlands,Netherlands,20.0,M,Centre Defensive Midfielder
+3448,44032.0,Tom Cleverley,Tom,Cleverley,1989-08-12,England,England,8.0,M,Centre Central Midfielder
+9100,135258.0,Sam Clucas,Sam,Clucas,1990-09-25,England,England,7.0,M,Left Winger
+4604,27098.0,Nathaniel Clyne,Nathaniel,Clyne,1991-04-05,England,England,17.0,D,Right Full Back
+10268,261067.0,Luke Coddington,Luke,Coddington,1995-06-06,England,England,12.0,G,Goalkeeper
+3713,188203.0,Jack Colback,Jack,Colback,1989-10-24,England,England,8.0,M,Centre Central Midfielder
+3600,94007.0,Séamus Coleman,Séamus,Coleman,1988-10-11,Ireland,Ireland,,D,Right Full Back
+23739,159289.0,Michael Collins,Michael,Collins,2000-09-22,England,England,,D,Defender
+21653,299570.0,Aaron Connolly,Aaron,Connolly,2000-01-28,Ireland,Ireland,26.0,F,Centre Striker
+8045,299838.0,Steve Cook,Steve,Cook,1991-04-19,England,England,27.0,D,Centre Central Defender
+15094,302732.0,Brandon Cooper,Brandon,Cooper,2000-01-14,Wales,Wales,14.0,D,Centre Central Defender
+3549,187933.0,Francis Coquelin,Francis,Coquelin,1991-05-13,France,France,19.0,M,Centre Defensive Midfielder
+2889,49709.0,Jack Cork,Jack,Cork,1989-06-25,England,England,4.0,M,Centre Central Midfielder
+4911,135209.0,Thibaut Courtois,Thibaut,Courtois,1992-05-11,Belgium,Belgium,1.0,G,Goalkeeper
+2559,160085.0,Martin Cranie,Martin,Cranie,1986-09-26,England,England,2.0,D,Centre Central Defender
+8897,14131.0,Aaron Cresswell,Aaron,Cresswell,1989-12-15,England,England,3.0,D,Left Full Back
+1629,154344.0,Peter Crouch,Peter,Crouch,1981-01-30,England,England,15.0,F,Centre Striker
+13716,166879.0,Cuco Martina,Rhu-endly,Martina,1989-09-25,Netherlands,Curacao,,D,Defender
+5174,133597.0,Cristián Cuevas,Cristián,Cuevas,1995-04-02,Chile,Chile,23.0,D,Left Full Back
+10539,317848.0,Josh Cullen,Josh,Cullen,1996-04-07,England,Ireland,,M,Centre Central Midfielder
+33158,300618.0,Pontus Dahlberg,Pontus,Dahlberg,1999-01-21,Sweden,Sweden,1.0,G,Goalkeeper
+24679,281212.0,James Daly,James,Daly,2000-01-12,England,England,17.0,F,Centre Striker
+3242,287752.0,Charlie Daniels,Charlie,Daniels,1986-09-07,England,England,23.0,D,Left Full Back
+5328,162295.0,Danilo,Danilo Luiz,da Silva,1991-07-15,Brazil,Brazil,6.0,D,Right Full Back
+3807,288590.0,Scott Dann,Scott,Dann,1987-02-14,England,England,24.0,D,Centre Central Defender
+8389,267218.0,Tendayi Darikwa,Tendayi,Darikwa,1991-12-13,England,Zimbabwe,27.0,D,Right Full Back
+9251,14910.0,Karl Darlow,Karl,Darlow,1990-10-08,England,England,1.0,G,Goalkeeper
+12854,279895.0,Matteo Darmian,Matteo,Darmian,1989-12-02,Italy,Italy,36.0,D,Left/Right Full Back
+2985,166806.0,Daryl Murphy,Daryl,Murphy,1983-03-15,Ireland,Ireland,9.0,F,Centre Striker
+14457,135989.0,Josh Dasilva,Josh,Dasilva,1998-10-23,England,England,10.0,M,Left/Right Winger
+4100,288352.0,David Luiz,David Luiz,Moreira Marinho,1987-04-22,Brazil,Brazil,23.0,D,Centre Central Defender
+10526,314306.0,Jason Davidson,Jason,Davidson,1991-06-29,Australia,Australia,,D,Defender
+13389,32263.0,Tom Davies,Tom,Davies,1998-06-30,England,England,26.0,M,Centre Central Midfielder
+2423,126112.0,Steven Davis,Steven,Davis,1985-01-01,Northern Ireland,Northern Ireland,10.0,M,Centre Central Midfielder
+4198,277557.0,Craig Dawson,Craig,Dawson,1990-05-06,England,England,15.0,D,Centre Central Defender
+4288,19595.0,Kevin De Bruyne,Kevin,De Bruyne,1991-06-28,Belgium,Belgium,17.0,M,Left/Centre/Right Attacking Midfielder
+4330,6011.0,David de Gea,David,de Gea,1990-11-07,Spain,Spain,1.0,G,Goalkeeper
+4885,143946.0,Siem de Jong,Siem,de Jong,1989-01-28,Switzerland,Netherlands,15.0,M,Centre Attacking Midfielder
+14834,303639.0,Zachary Dearnley,Zachary,Dearnley,1998-09-28,England,England,,F,Forward
+4546,313506.0,Mathieu Debuchy,Mathieu,Debuchy,1985-07-28,France,France,26.0,D,Defender
+9947,288638.0,Troy Deeney,Troy,Deeney,1988-06-29,England,England,36.0,F,Centre Striker
+1526,303240.0,Jermain Defoe,Jermain,Defoe,1982-10-07,England,England,10.0,F,Centre Striker
+5345,261981.0,Steven Defour,Steven,Defour,1988-04-15,Belgium,Belgium,88.0,M,Centre Central Midfielder
+1911,52228.0,Damien Delaney,Damien,Delaney,1981-07-20,Ireland,Ireland,,D,Centre Central Defender
+3799,160457.0,Fabian Delph,Fabian,Delph,1989-11-21,England,England,8.0,M,Left/Centre Central Midfielder
+4123,160625.0,Mousa Dembélé,Mousa,Dembélé,1987-07-16,Belgium,Belgium,8.0,M,Central Midfielder
+11002,136218.0,Jason Denayer,Jason,Denayer,1995-06-28,Belgium,Belgium,5.0,D,Centre Central Defender
+14643,268745.0,Alex Denny,Alex,Denny,2000-04-12,England,England,20.0,M,Centre Central Midfielder
+16747,25727.0,Laurent Depoitre,Laurent,Depoitre,1988-12-07,Belgium,Belgium,29.0,F,Centre Striker
+4777,281578.0,Gerard Deulofeu,Gerard,Deulofeu,1994-03-13,Spain,Spain,10.0,F,Left Winger
+32936,285549.0,Fousseni Diabaté,Fousseni,Diabaté,1995-10-18,France,Mali,18.0,F,Right Winger
+3982,309578.0,Mohamed Diamé,Mohamed,Diamé,1987-06-14,France,Senegal,18.0,M,Centre Defensive Midfielder
+15199,270977.0,Grady Diangana,Grady,Diangana,1998-04-19,England,England,,M,Left/Centre/Right Attacking Midfielder
+14800,256796.0,Brahim Díaz,Brahim,Díaz,1999-08-03,Spain,Spain,21.0,F,Left/Centre Winger
